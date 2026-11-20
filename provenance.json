@@ -1,0 +1,409 @@
+{
+  "historical_author": "福島芳翁（慎獨軒）口述，中川壺山（修亭，字其德）記",
+  "source_identity": "京都大學附屬圖書館富士川文庫 ホ/154，RB00005046",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005046/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 36,
+  "content_scan_count": 32,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "42b926eae1dfd78e0f5d5dcd3400e7f8cbbaeb5fb1fcd9a2ab521a6f4b1b07a4",
+      "content_role": "housing-and-bindings"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "b0b3a3270546bcb11bec79a6ac672c5db33e1e2b7629da5baa2b210173012f0d",
+      "content_role": "housing-and-bindings"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "3037726d2a6a4ff9e5af16f52412375303253ed5069e87e48f4a9aa7cce1fa16",
+      "content_role": "housing-and-bindings"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "f7f47d8f5eedef75d02adaa45460279538d626812b9f8f27cda4c9e7f7b7af7d",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "702da0200227a043a86bc01b9b9cfd731518509812d98769c0ba949779757a2e",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "5978d1cc40ec6cd7f582b4097bba4a886d716071971204c0ffd6052d2165fcf4",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "3c5316f35446914c6ce80a23785ff1532032f12c818fd4d692973d15a29f4b0d",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "0528638909ed7c92a858d9bae49889b83bfa58224c8dbfb202a8e37d7fcc5ecb",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "c0517e7428383449b1c7b2c2dd40556d3a2f035306f014d9c3e6d70a302bdb41",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p10",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "sha256": "215733f5f33eb512d675cb9b31cb7a6ffa38697f41c79c8df7a77928c2139c1f",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "sha256": "1bb10378963aed6474a169d92d2e5cd780b355c9f01cc87ce882336425057eb8",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p12",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "sha256": "b3cad036b5a87d2b89035e68cb1c84d543a8d818ce98419d36051f485416e287",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p13",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "sha256": "9bb8ce13fb78b6aa31d60412e77c639363852d20cfa3b43af58eba98e3f2936e",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p14",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "sha256": "a21da23b326a158c8e3ede4ff268e19900a9741bedc6c97e17a5c0ab25f05899",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p15",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "sha256": "421fd3cc44600618d4e33d8c89ae8e88e455a8c174c4170a0609a35c955dbbe7",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "sha256": "b2fa505a9df3c30a5da67f1ad1861a1b1e9305fcc11d53e91d261afb8e180208",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "sha256": "0d928d33f2b2974506b487e4000c40e9839aa9fdb3335d5a03c1a6d58d0fc49a",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p18",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "sha256": "3443db0f65669b48bc43cf9198f09ed3a0ef15acf811ec3bf27b7533f2b5a98f",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p19",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "sha256": "2c2955c38ad52b42ccddd455155e1d62e5bedccfda13bb4ad1ff72bc46c50465",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p20",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "sha256": "4c03bd9412397f462bc787faa90b8cfa4ffa8deb770d8d9a31916341d23fd309",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "sha256": "068093afbbe0d2674b2c59e26992a12147006bcbdb58e08fe0700e4b83541dc4",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p22",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "sha256": "76c7d56e95c22d44765da55e9c299d6c1330bd763e383dc8965ba5269e74bc6d",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p23",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "sha256": "f22aeaf0856d7a377d1ef2c52a454453c7dbe6e15d671cef8c8f7903a39f51c3",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p24",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "sha256": "3c3aae17e097d1c61888d2115c1beb82148f0577c47756916b96272c74c899a7",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p25",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "sha256": "338d203fb6939ba43e25381ef8704ed90e4934ec5525c105bcff9a607ecf987b",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p26",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "sha256": "a4783d9ea2654af9a44c2d51fa340938dc252cb4ae5f9d9fb5d907f627728eab",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p27",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "sha256": "bd1e400c04eb8265fd771df5671a5a3d71e00ce98a78f6c0560ed747eaba3046",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "sha256": "de82e1ab17f2467bfdc8fe86660b2b4251da92b3c1030a69a7b02da89b879e64",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "sha256": "e0d1500941c0de1aa4f05a79ab35ccababd5d98cf1c8179ab1d1676177ef67ba",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p30",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "sha256": "de5d537103736c5835aafc04747daf2860b2ac9bdddf53d228cffdb66eed329f",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p32",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "sha256": "06c4cbe12f200ade2df4ca5923284d8af2c6743e628eb4ba6ed9611bf18b146e",
+      "content_role": "clinical-discussions-and-cases"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "sha256": "7af754b88ce6273c4110ffda82c1d3bb40d52488a241d6ffd8846f9e4b3e3871",
+      "content_role": "afterword"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "sha256": "831e6035c17681c3306e03e343ff13726c5da38e9fac1b5e5688204c1bb5b26e",
+      "content_role": "afterword"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "sha256": "af8863faa0f28482061cd61d91e200bb1b14ede287d088fe4da1a507fa7486bb",
+      "content_role": "afterword"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p36",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "sha256": "1fbcdcb4451eb708637bce4ac63c00de5e8f5694d9456b7163d2c5bc53836ec6",
+      "content_role": "housing-and-bindings"
+    }
+  ]
+}

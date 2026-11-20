@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '芳翁醫談（1796 年跋，京都大學 ホ/154） / Hō-ō idan [Medical conversations of Fukushima Hōō]:
+  Partial Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00005046-ho-o-idan
+keywords:
+- 芳翁醫談
+- 芳翁医談
+- 福島芳翁
+- 中川壺山
+- 中川修亭
+- Hō-ō idan
+- case histories
+- history of psychiatry
+- care histories
+- Kanbun

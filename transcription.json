@@ -1,0 +1,6483 @@
+{
+  "metadata": {
+    "title": "芳翁醫談",
+    "catalogue_title": "芳翁医談 1巻",
+    "alternate_title": "芳翁医談",
+    "roman_title": "Hō-ō idan",
+    "author": "福島芳翁（慎獨軒）口述，中川壺山（修亭、故、字其德）筆錄",
+    "date": "跋署寛政丙辰（1796）；館藏本實際抄年未詳。",
+    "location": "日本京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "ホ/154",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "江戶時代漢文醫談，保存福島芳翁病例、觀察及照護筆記，中川壺山記錄。本資料集收錄可公開之轉錄範圍，六段留缺。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005046/manifest.json",
+    "manifest_sha256": "bb9d26eafd6e546bfbfa4ed255d473149d274c41655a22a8751bb342fb0a906d",
+    "record_id": "RB00005046",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "芳翁醫談（1796 年跋，京都大學 ホ/154） / Hō-ō idan [Medical conversations of Fukushima Hōō]: Partial Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "42b926eae1dfd78e0f5d5dcd3400e7f8cbbaeb5fb1fcd9a2ab521a6f4b1b07a4",
+      "bytes": 237722,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-and-bindings",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "帙前左題籤",
+              "text": "芳翁醫談　全",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍帙首面，左繫帶，右緣館籤折入書脊。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "b0b3a3270546bcb11bec79a6ac672c5db33e1e2b7629da5baa2b210173012f0d",
+      "bytes": 293542,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-and-bindings",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "帙前左題籤",
+              "text": "芳翁醫談　全",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "帙脊長籤",
+              "text": "芳翁醫談　全",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "帙脊館籤",
+              "text": "富士川本／ホ／154",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "富士川本",
+                "ホ",
+                "154"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：左題籤與前幅同一，書脊兩籤另記。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "3037726d2a6a4ff9e5af16f52412375303253ed5069e87e48f4a9aa7cce1fa16",
+      "bytes": 246018,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-and-bindings",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "前封題籤",
+              "text": "芳翁醫談",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "前封上角館籤",
+              "text": "富士川本／ホ／154",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "富士川本",
+                "ホ",
+                "154"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：前封題籤上端裂痕略及芳字，籤底右緣有朱點。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "f7f47d8f5eedef75d02adaa45460279538d626812b9f8f27cda4c9e7f7b7af7d",
+      "bytes": 240504,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁外上藍框簽",
+              "text": "富士川本／ホ／154",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "富士川本",
+                "ホ",
+                "154"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "芳翁醫談"
+            },
+            {
+              "text": "和州芳野　慎獨軒老人談話"
+            },
+            {
+              "text": "平安　中川故其德筆錄"
+            },
+            {
+              "text": "大黃最有竒効巴豆芒硝甘遂芫花雖同為下劑然"
+            },
+            {
+              "text": "各異其材故不適其才而用之决無得其効唯大黃"
+            },
+            {
+              "text": "則否故如篤落丸單以大黃一味用之其効難計大"
+            },
+            {
+              "text": "黃甘草丸以大黃甘草二味大黃甘遂丸以大黃甘"
+            },
+            {
+              "text": "遂二味此類甚多而不用大黃者少此亦可以知其"
+            },
+            {
+              "text": "効之多也"
+            },
+            {
+              "text": "丸下劑中以甘遂為峻功之最故如神祐如神諸丸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "左頁外右兩長方朱印",
+              "text": "富士川游寄贈／富士川家藏本",
+              "column_anchor": 10,
+              "color": "red",
+              "lines": [
+                "富士川游寄贈",
+                "富士川家藏本"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁上黑圓戳",
+              "text": "706190／昭15.9.5",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "706190",
+                "昭15.9.5"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "効／劑",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "効",
+                "劑"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "材／之／効",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "材",
+                "之",
+                "効"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "否／丸／之／計",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "否",
+                "丸",
+                "之",
+                "計"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "丸／二味／遂丸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "丸",
+                "二味",
+                "遂丸"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "二味／甚多／少",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "二味",
+                "甚多",
+                "少"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "也",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "最／末丸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "最",
+                "末丸"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁無本面正文。書口近底沿有孔裂，不能當字。 左面：上方另有大方篆朱印。正文首字在印下仍見大字。中川後第三字呈古與攵，依形暫錄故。篤落首字上有竹形，下部筆畫待覆核。朱點正文不插入，按欄列依附前字。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "702da0200227a043a86bc01b9b9cfd731518509812d98769c0ba949779757a2e",
+      "bytes": 285173,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "雖多聚下藥如除則下利不劇故知甘遂大黃丸之"
+            },
+            {
+              "text": "功特多也其單方甘遂丸者亦可備用"
+            },
+            {
+              "text": "起廢丸本為外臺秘要之方師家常用之其製以生"
+            },
+            {
+              "text": "漆和大黃末加蜜煉為丸大黃之多少從其宜當取"
+            },
+            {
+              "text": "其末乾固者辰砂為衣以與之故為毒所中發小疹"
+            },
+            {
+              "text": "者間有之然強與之則後遂無害小疹亦從已蓋師"
+            },
+            {
+              "text": "家以為世所重能得行之若吾輩則人畏其毒不堪"
+            },
+            {
+              "text": "長服故今易其製其法以方俗稱逕漆者和大黃末"
+            },
+            {
+              "text": "多少從宜如泥土布置于板上收諸筵中以為乾漆"
+            },
+            {
+              "text": "然後再末為丸丸乾而固結者難還為末乘其未全"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "下藥／不劇",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "下藥",
+                "不劇"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "也／用",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "用"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "方／用之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "方",
+                "用之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "末／為丸／當",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "末",
+                "為丸",
+                "當"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "者／與之／中",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "者",
+                "與之",
+                "中"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "間有之／無害／從已",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "間有之",
+                "無害",
+                "從已"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "行之／毒",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "行之",
+                "毒"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "長服／製／漆者／末",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "長服",
+                "製",
+                "漆者",
+                "末"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "土／板上／乾漆",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "土",
+                "板上",
+                "乾漆"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "丸／固結者／末",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "丸",
+                "固結者",
+                "末"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "固可用力研末能末而後供丸用"
+            },
+            {
+              "text": "丸固丸之糊無如蕎麦入腹裏易消化也是以余家"
+            },
+            {
+              "text": "諸丸皆用之但有油膩者用米粉"
+            },
+            {
+              "text": "起廢丸主治甚多不論血塊積聚凡腹中有塊而外"
+            },
+            {
+              "text": "發攣急氣促諸症者皆必用之世所謂勞瘵者多因"
+            },
+            {
+              "text": "瘀血故又名乾血勞其腹必有塊而腹中拘急形體"
+            },
+            {
+              "text": "瘦小者皆宜長服此丸蓋治勞之方莫良於此反胃"
+            },
+            {
+              "text": "難治其證每吐食後貪食宜乎世醫見以為脾胃虛"
+            },
+            {
+              "text": "也法當長服小半夏加茯苓湯然非此方以為盡也"
+            },
+            {
+              "text": "唯驅除其停飲而已他又有一方亦唯小半夏之類"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "研末／用",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "研末",
+                "用"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "蕎麦／也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "蕎麦",
+                "也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "用之／粉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "用之",
+                "粉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "甚多／積聚",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "甚多",
+                "積聚"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "諸症者／用之／勞瘵者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "諸症者",
+                "用之",
+                "勞瘵者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "瘀血／乾血勞／塊／拘急",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "瘀血",
+                "乾血勞",
+                "塊",
+                "拘急"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "瘦小者／丸／此",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "瘦小者",
+                "丸",
+                "此"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "難治／貪食",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "難治",
+                "貪食"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "也／茯苓湯／末也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "茯苓湯",
+                "末也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "已／一方",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "已",
+                "一方"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第8欄逕漆首字於辵部連筆，候逕／透。第9欄筵候筵／筐，第10欄乘依字形初讀。朱點與散斑分處。 左面：第3欄油後候膩，右筆似弐連形。末兩欄反透淡墨在字間，未續入。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "5978d1cc40ec6cd7f582b4097bba4a886d716071971204c0ffd6052d2165fcf4",
+      "bytes": 269884,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "耳凡服湯藥之間必須長服大黃甘草丸胃中之穢"
+            },
+            {
+              "text": "物出尽則已"
+            },
+            {
+              "text": "中風卒倒者最難治與附子瀉心湯而間得効焉然"
+            },
+            {
+              "text": "多死"
+            },
+            {
+              "text": "偏枯中風言語蹇渋者當與麥門冬湯加石膏湯此"
+            },
+            {
+              "text": "本據大逆上氣咽喉不利之語師家以為常法又用"
+            },
+            {
+              "text": "續命湯其法用金匱續命湯方而去乾姜加附子諸"
+            },
+            {
+              "text": "藥各為五分石膏特為五錢大凡治偏枯中風一閑"
+            },
+            {
+              "text": "齋翁每用石膏白翁多用附子"
+            },
+            {
+              "text": "白翁大愛烏頭凡當用附子者皆用之予却用鹽藏"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "耳／間／丸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "耳",
+                "間",
+                "丸"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "已",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "難治／心湯／焉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "難治",
+                "心湯",
+                "焉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "死",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "蹇渋者／石膏湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "蹇渋者",
+                "石膏湯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "之語／常法",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "之語",
+                "常法"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "首命湯／附子",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首命湯",
+                "附子"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "五分／五錢大／中風",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "五分",
+                "五錢大",
+                "中風"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "石膏／附子",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "石膏",
+                "附子"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "烏頭／用之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "烏頭",
+                "用之"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "附子多為長服之用若求急効則用烏頭"
+            },
+            {
+              "text": "偏枯癱瘓及痿癈而麻痺者恐是陽气耗薄矣宜乎"
+            },
+            {
+              "text": "世醫皆用烏附之輩也然未見其効者也"
+            },
+            {
+              "text": "偏枯中風世醫或為外来風氣病蓋以方有用麻黃"
+            },
+            {
+              "text": "獨活之類者也然此病真癇而已金匱風引湯條足"
+            },
+            {
+              "text": "以徴為故縱今不得全治施之以癇家之治則當免"
+            },
+            {
+              "text": "古人之誚"
+            },
+            {
+              "text": "狀類反胃惡心嘈雜時吐酸水肩背凝結刺痛徹心"
+            },
+            {
+              "text": "過寒夜特甚或腹脹痛者宜先與附子粳米湯不差"
+            },
+            {
+              "text": "者與梔子豉湯"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "用／烏頭",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "用",
+                "烏頭"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "麻痺者／矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "麻痺者",
+                "矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "首也／末也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首也",
+                "末也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "中風／病蓋／末黃",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "中風",
+                "病蓋",
+                "末黃"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "者也／已",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "者也",
+                "已"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "為／全治／癇家之治",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "為",
+                "全治",
+                "癇家之治"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "誚",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "嘈雜／酸水／凝結／刺痛／徹心",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "嘈雜",
+                "酸水",
+                "凝結",
+                "刺痛",
+                "徹心"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "特甚／脹痛者／粳米湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "特甚",
+                "脹痛者",
+                "粳米湯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "湯",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第5欄語後之字首豎與小鉤依形讀蹇。第6欄本前有小黑點。第8欄末與第9欄首可合讀一閑齋，分欄照圖。 左面：第2欄阳後字簡作气。第4欄外来依形。第8欄嘈雜與第9欄糧用米均有連筆，依形初讀為嘈雜、粳米。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "3c5316f35446914c6ce80a23785ff1532032f12c818fd4d692973d15a29f4b0d",
+      "bytes": 272649,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "粗類前証而食則不得不吐故自探吐而稍得安或"
+            },
+            {
+              "text": "時腹痛或時下利者全屬反胃宜大黃甘草丸"
+            },
+            {
+              "text": "丸下利不止諸醫不能治者宜與厚朴七物湯加黃"
+            },
+            {
+              "text": "連檳榔湯之類是為常法其利必止若仍不止者乃"
+            },
+            {
+              "text": "知猶有毒在深也宜與甘遂大黃丸主之但用之可"
+            },
+            {
+              "text": "少許而長服欲毒之尽也如過用之則瞑眩之太甚"
+            },
+            {
+              "text": "毒反不盡"
+            },
+            {
+              "text": "休息痢世皆為難治蓋亦穢物不尽也宜服篤落丸"
+            },
+            {
+              "text": "兼用半夏瀉心湯之類"
+            },
+            {
+              "text": "一男子患水腫喘滿諸治無効乃與大檳榔湯兼用"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "前証／不吐／得安",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "前証",
+                "不吐",
+                "得安"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "腹痛／下利者／反胃／丸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "腹痛",
+                "下利者",
+                "反胃",
+                "丸"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "不止／治者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "不止",
+                "治者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "之類／常法／必止／者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "之類",
+                "常法",
+                "必止",
+                "者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "深也／主之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "深也",
+                "主之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "長服／尽也／過用之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "長服",
+                "尽也",
+                "過用之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "不盡",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "難治／也／丸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "難治",
+                "也",
+                "丸"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "之類",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "喘滿／無効／檳榔湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "喘滿",
+                "無効",
+                "檳榔湯"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "如神丸喘急止而反發呃因與半夏瀉心湯呃止而"
+            },
+            {
+              "text": "腫不減與越婢湯遂全愈後數日脚不能行診之非"
+            },
+            {
+              "text": "攣急之類實腰間有病故腰漸屈不能自伸而今然"
+            },
+            {
+              "text": "也蓋是癇也於是與三黃丸一升許兼服腎著湯而"
+            },
+            {
+              "text": "遂安"
+            },
+            {
+              "text": "凡癇家有數百千證治之莫如三黃瀉心湯其眼胞"
+            },
+            {
+              "text": "情而數瞬呼吸促迫如啼之類用之効最彰如其欲"
+            },
+            {
+              "text": "令長服宜為丸與焉然其効稍緩"
+            },
+            {
+              "text": "癇家衝突甚見異證者宜辰砂丸其自"
+            },
+            {
+              "text": "汗甚者亦因衝突然宜三黃瀉心湯甚者加牡蠣主"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第9欄衝突下雙小欄，先右後左",
+              "text": "卒然衝痛似／衝心而非者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "卒然衝痛似",
+                "衝心而非者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "神丸／發呃／瀉心湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "神丸",
+                "發呃",
+                "瀉心湯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "不減／全愈／不能行",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "不減",
+                "全愈",
+                "不能行"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "之類／有病／自伸而",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "之類",
+                "有病",
+                "自伸而"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "首也／末也／許",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首也",
+                "末也",
+                "許"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "安",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "證／湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "證",
+                "湯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "數瞬／之類／彰",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "數瞬",
+                "之類",
+                "彰"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "長服／與焉／稍緩",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "長服",
+                "與焉",
+                "稍緩"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "旁字者／異證者／辰砂丸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "旁字者",
+                "異證者",
+                "辰砂丸"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "汗甚者／衝突／瀉心湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "汗甚者",
+                "衝突",
+                "瀉心湯"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "情",
+          "candidates": [],
+          "note": "第3欄伸而後疑小黑點，今然依底本。第7欄首字左短旁右青，暫錄「情」，候睛／悸。第9欄雙行小字據版位另記。"
+        }
+      ],
+      "observations": "右面：第8欄「篤」同 f04 字形，可比較。第9、10欄用前字下部相近，皆候兼。 左面：第3欄伸而後疑小黑點，今然依底本。第7欄首字左短旁右青，暫錄「情」，候睛／悸。第9欄雙行小字據版位另記。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "0528638909ed7c92a858d9bae49889b83bfa58224c8dbfb202a8e37d7fcc5ecb",
+      "bytes": 274251,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之"
+            },
+            {
+              "text": "三黃湯偶用之則湯力弱而丸力強反用之則湯力"
+            },
+            {
+              "text": "強而丸力弱"
+            },
+            {
+              "text": "癇家之治欲持重者莫如溫膽湯此方雖見於後世"
+            },
+            {
+              "text": "蓋古之遺方也長服之則必有奇効彼諸証變出不"
+            },
+            {
+              "text": "定者実癇家之常態也切勿妄顧以轉方"
+            },
+            {
+              "text": "上市賣人其子忽厥冷戴眼不知人事予以為癇與"
+            },
+            {
+              "text": "三黃加芒硝湯一醫以為虛寒與參附之類用之二"
+            },
+            {
+              "text": "三日而危更甚故使人速至京請治於松原翁々之"
+            },
+            {
+              "text": "至也病既経三日而危益甚翁乃診之退曰今日疲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "之",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "偶用之／丸力強",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "偶用之",
+                "丸力強"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "弱",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "持重者／溫膽湯／後世",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "持重者",
+                "溫膽湯",
+                "後世"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "也／奇効",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "奇効"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "定者／常態也／轉方",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "定者",
+                "常態也",
+                "轉方"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "賣人／厥冷／戴眼／人事",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "賣人",
+                "厥冷",
+                "戴眼",
+                "人事"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "硝湯／虛寒／之類用之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "硝湯",
+                "虛寒",
+                "之類用之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "更甚／至京／原翁",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "更甚",
+                "至京",
+                "原翁"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "至也／三日／甚／退曰",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "至也",
+                "三日",
+                "甚",
+                "退曰"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "矣將浴以憩即進浴既浴曰我饑矣欲食即薦食既"
+            },
+            {
+              "text": "食又命酒家人狼狽曰初師之未至也舉家延頸而"
+            },
+            {
+              "text": "待共謂遇先生之一診而死則幸也今先生至而気"
+            },
+            {
+              "text": "息猶存因謂如得先生之藥則服一口而斃亦大幸"
+            },
+            {
+              "text": "也今先生至不言其死生故舉家竊謂此或有治法"
+            },
+            {
+              "text": "矣然悠悠不敢直下治方則衆皆不知所措縱全無"
+            },
+            {
+              "text": "治理行良方於萬一以少寛衆心翁曰汝等勿深憂"
+            },
+            {
+              "text": "尋可治矣於是召予問曰汝等前用何等之藥曰予"
+            },
+            {
+              "text": "與三黃加芒硝一醫人與參附湯互用而至于今翁"
+            },
+            {
+              "text": "曰處方是也然如欲治疾病則非也夫此證也風引"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "矣／憩／進浴／曰／饑矣／薦食",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "矣",
+                "憩",
+                "進浴",
+                "曰",
+                "饑矣",
+                "薦食"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "酒／曰／未至也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "酒",
+                "曰",
+                "未至也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "待／幸也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "待",
+                "幸也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "猶存／之藥",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "猶存",
+                "之藥"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "欄首也／死生／竊謂",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "欄首也",
+                "死生",
+                "竊謂"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "矣／治方／所措",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "矣",
+                "治方",
+                "所措"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "治理／萬一／衆心／憂",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "治理",
+                "萬一",
+                "衆心",
+                "憂"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "治矣／問曰／之藥",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "治矣",
+                "問曰",
+                "之藥"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "硝／參附湯／今",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "硝",
+                "參附湯",
+                "今"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "是也／非也／此證也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "是也",
+                "非也",
+                "此證也"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第6欄実照圖。第7欄賣近賣／賈，中部貝形稍密。第9欄翁後原見小重文號，另貼一朱斜點。 左面：第3欄至後另有黑點，気作省形。第7欄寛從原寫。第10欄「風引」與下幅右首「湯」可接讀。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "c0517e7428383449b1c7b2c2dd40556d3a2f035306f014d9c3e6d70a302bdb41",
+      "bytes": 274262,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "湯所宜矣乃調與之三劑而神全醒翁曰已知人事"
+            },
+            {
+              "text": "病途易辨自今以往汝等宜治之家人不肯強請其"
+            },
+            {
+              "text": "藥翁乃與同方五十劑愈"
+            },
+            {
+              "text": "一童子十有八歳素患環口赤爛瘡"
+            },
+            {
+              "text": "忽直視不言按心下如石須臾醒乍復發"
+            },
+            {
+              "text": "蓋其毒甚而逆衝也諸醫集診或與獨參湯或投參"
+            },
+            {
+              "text": "附予一診曰無用人參則我善治之矣言畢乃去衆"
+            },
+            {
+              "text": "咸信參云諸醫已束手外此無可續命者主翁曰用"
+            },
+            {
+              "text": "參既若干而病自若是參不應也況彼曰無用之則"
+            },
+            {
+              "text": "我善治之是必有所見也不如速委之於彼於是再"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第4欄爛瘡下雙小欄，先右後左",
+              "text": "口邊赤爛如魚／口乾燥而急迫",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "口邊赤爛如魚",
+                "口乾燥而急迫"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第5欄欄首雙小欄，先右後左",
+              "text": "以緩之故／益爛者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "以緩之故",
+                "益爛者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "宜矣／與之／全醒／翁曰／人事",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "宜矣",
+                "與之",
+                "全醒",
+                "翁曰",
+                "人事"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "易辨／治之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "易辨",
+                "治之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "藥／同方／愈",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "藥",
+                "同方",
+                "愈"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "歳／爛瘡／小欄爛",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "歳",
+                "爛瘡",
+                "小欄爛"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "不言／如石／復發",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "不言",
+                "如石",
+                "復發"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "逆衝也／集診／參湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "逆衝也",
+                "集診",
+                "參湯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "附／一診曰／人參／之矣／言畢／去",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "附",
+                "一診曰",
+                "人參",
+                "之矣",
+                "言畢",
+                "去"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "云／束手／續命／者／主翁曰",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "云",
+                "束手",
+                "續命",
+                "者",
+                "主翁曰"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "若干／自若／不應也／無用之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "若干",
+                "自若",
+                "不應也",
+                "無用之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "治之／見也／於彼",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "治之",
+                "見也",
+                "於彼"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "来請乃與風引湯一貼見微効尋與十貼知人事如"
+            },
+            {
+              "text": "常不復逆衝於是與三黃湯諸証全已"
+            },
+            {
+              "text": "下利如休息而無膿血唯水瀉時或自止則腹脹浮"
+            },
+            {
+              "text": "則爽然而日漸羸憊面色痿黃惡心吞酸時腹自痛"
+            },
+            {
+              "text": "者與半夏瀉心湯兼用篤刺丸為佳且宜長服也凡"
+            },
+            {
+              "text": "腹脹如是者多非巴豆不得効也紫圓有治久利者"
+            },
+            {
+              "text": "正為之也"
+            },
+            {
+              "text": "大凡疾病之為物證候雖同而其內或不同故既経"
+            },
+            {
+              "text": "治驗雖確矣然不可謂我能得之也頃有一婦人経"
+            },
+            {
+              "text": "血漏下不已已則肚腹脹大諸醫多與膠艾四物之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "来請／一貼／微効／十貼／人事",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "来請",
+                "一貼",
+                "微効",
+                "十貼",
+                "人事"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "逆衝／三黃湯／已",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "逆衝",
+                "三黃湯",
+                "已"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "膿血／自止／浮",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "膿血",
+                "自止",
+                "浮"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "羸憊／痿黃／吞酸時",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "羸憊",
+                "痿黃",
+                "吞酸時"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "者／瀉心湯／丸／佳／長服也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "者",
+                "瀉心湯",
+                "丸",
+                "佳",
+                "長服也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "如是者／効也／久利者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "如是者",
+                "効也",
+                "久利者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "也",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "為物／雖同／不同",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "為物",
+                "雖同",
+                "不同"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "確矣／之也／婦人",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "確矣",
+                "之也",
+                "婦人"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "首已／脹大",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首已",
+                "脹大"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "第4欄痿黃首字穠墨，待核形。第5欄篤刺中間可見刀旁，與 f04 及 f07 篤落的次字字形不同。第8、9欄経及第1欄来照形。"
+        }
+      ],
+      "observations": "右面：第8欄命右有較大朱筆與小撇相交，候重朱點，不讀字。第4及5欄兩小欄的先後依左右版位初定。第1欄翁曰後保留原朱位置。 左面：第4欄痿黃首字穠墨，待核形。第5欄篤刺中間可見刀旁，與 f04 及 f07 篤落的次字字形不同。第8、9欄経及第1欄来照形。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "215733f5f33eb512d675cb9b31cb7a6ffa38697f41c79c8df7a77928c2139c1f",
+      "bytes": 273959,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "類一不見効日漸憔悴予診之謂可速治焉乃與桃"
+            },
+            {
+              "text": "仁承氣湯兼以起廢丸血下益甚凡経數十日血遂"
+            },
+            {
+              "text": "不減血若止則腹必脹"
+            },
+            {
+              "text": "內痔難治蓋肚內有結毒也不如用蝟皮餘藥全無"
+            },
+            {
+              "text": "効宜長服蝟皮散之類漏亦然凡漏口不愈者為佳"
+            },
+            {
+              "text": "孔口愈則其內大蝕故世多施其孔以一條鎗之類"
+            },
+            {
+              "text": "然亦唯不如與下劑成章堂父子共有此病常不事"
+            },
+            {
+              "text": "外敷長服下劑後終失患"
+            },
+            {
+              "text": "癇家舌焦或白色加數日潰水者宜主用連石二味"
+            },
+            {
+              "text": "外為末敷之內加諸麥門冬湯之類以服焉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "類／効／憔悴／診之／治焉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "類",
+                "効",
+                "憔悴",
+                "診之",
+                "治焉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "湯／丸／甚／日",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "湯",
+                "丸",
+                "甚",
+                "日"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "不減／末脹",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "不減",
+                "末脹"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "難治／也／蝟皮",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "難治",
+                "也",
+                "蝟皮"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "効／類／然／佳",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "効",
+                "類",
+                "然",
+                "佳"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "大蝕／末類",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "大蝕",
+                "末類"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "下劑／此病／末事",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "下劑",
+                "此病",
+                "末事"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "外敷／下劑／失患",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "外敷",
+                "下劑",
+                "失患"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "白色／水者／二味",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "白色",
+                "水者",
+                "二味"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "敷之／焉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "敷之",
+                "焉"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "一閑齋之為人清真卓犖風量不群以天地為家居"
+            },
+            {
+              "text": "以庶民為子弟而不諌不驕為古醫方之祖不亦宜"
+            },
+            {
+              "text": "乎江州日野人嘗来于翁家乍發腹痛翁為診曰是"
+            },
+            {
+              "text": "蟲積也乃與烏梅丸不已其人問曰蟲積者蛇虫之"
+            },
+            {
+              "text": "謂乎曰然曰我鄉自古初生小兒與海人湯而蛇虫"
+            },
+            {
+              "text": "亦用之治之今我服之則如何曰可乃作湯與之蛇"
+            },
+            {
+              "text": "下二十餘條遂全安矣後遇腹痛有蛇狀者試之數"
+            },
+            {
+              "text": "効自是以来不問所業遇人必示其方併語其始末"
+            },
+            {
+              "text": "世卒能知之至今用海人湯者皆翁之功也吉益"
+            },
+            {
+              "text": "氏之鶴胡菜湯山脇氏之芫丸湯皆松原氏之海人"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "為人／卓犖風／不群／家居",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "為人",
+                "卓犖風",
+                "不群",
+                "家居"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "子弟／不驕／祖",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "子弟",
+                "不驕",
+                "祖"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "乎／日野人／診曰",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "乎",
+                "日野人",
+                "診曰"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "蟲積也／已／問曰",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "蟲積也",
+                "已",
+                "問曰"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "謂乎／曰然／海人湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "謂乎",
+                "曰然",
+                "海人湯"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "治之／如何曰／可／與之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "治之",
+                "如何曰",
+                "可",
+                "與之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "條／全安矣／蛇狀者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "條",
+                "全安矣",
+                "蛇狀者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "効／以来／所業／方／始末",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "効",
+                "以来",
+                "所業",
+                "方",
+                "始末"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "知之／湯者／功也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "知之",
+                "湯者",
+                "功也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "胡菜湯／芫丸湯",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "胡菜湯",
+                "芫丸湯"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第6欄一條後武部左金，初讀鎗。第8欄失筆近矢。第9欄白色後近加／如，連石暫照形。 左面：第2欄訌形近諌／諛。第3欄家後小墨呈乍。第4、5欄虫為版面省形。第9欄功也之下有淡圈，第10欄「鶴胡菜」「芫丸」已放大核形，芫字末鉤略粗。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "1bb10378963aed6474a169d92d2e5cd780b355c9f01cc87ce882336425057eb8",
+      "bytes": 275544,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "湯也"
+            },
+            {
+              "text": "翁謂子弟曰為儒則須善讀論語惇行孝弟忠信固"
+            },
+            {
+              "text": "守禮義廉恥矣唯可為善不可為不善也為醫則須"
+            },
+            {
+              "text": "善讀傷寒論擇求衆方固守古之道矣唯可治病也"
+            },
+            {
+              "text": "苟不治病不足以為醫也故翁至死不著一書非其"
+            },
+            {
+              "text": "不能之也如有所著則其徒時之以為極莫故出乎"
+            },
+            {
+              "text": "其右者翁恐之故也翁又謂子弟曰予豈良醫乎二"
+            },
+            {
+              "text": "三子務高其志必不可為吾輩醫也其父心常如此"
+            },
+            {
+              "text": "奧村良筑嘗思吐法考究久之稍得其方終出施之"
+            },
+            {
+              "text": "人死者甚多故退再思久之又出施之死者猶不少"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第6欄時旁朱字",
+              "text": "恐睹乎",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "也",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "曰／論語／忠信",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "曰",
+                "論語",
+                "忠信"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "恥矣／為善／不善也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "恥矣",
+                "為善",
+                "不善也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "傷寒論／衆方／道矣／病也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "傷寒論",
+                "衆方",
+                "道矣",
+                "病也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "治病／為醫也／一書",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "治病",
+                "為醫也",
+                "一書"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "不能之也／有所著／極",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "不能之也",
+                "有所著",
+                "極"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "其右者／故也／曰／良醫乎",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "其右者",
+                "故也",
+                "曰",
+                "良醫乎"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "其志／也／如此",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "其志",
+                "也",
+                "如此"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "良筑／吐法／久之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "良筑",
+                "吐法",
+                "久之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "人／甚多／再思久之／又出施之／不少",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "人",
+                "甚多",
+                "再思久之",
+                "又出施之",
+                "不少"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "又退思久之終出施之無一不中者実得其妙訣嗚"
+            },
+            {
+              "text": "呼天縱之乎人懷之乎非人奪之命則誰能至是"
+            },
+            {
+              "text": "一閑齋之男名陳善字敬輔號一貫齋又号白翁後"
+            },
+            {
+              "text": "仕若州風致大類父其初在京日嘗遊于吉埜便道"
+            },
+            {
+              "text": "過弊廬預聞来灑掃以俟既来述慰勉乃是庭中小"
+            },
+            {
+              "text": "池假山慨然歎曰日月逝矣不同汝之豪邁憂至於"
+            },
+            {
+              "text": "斯瑣々陋俗汝之郷山則有金剛之秀矣水則有芳"
+            },
+            {
+              "text": "河之浩矣今有何所關作是小山池乎不如種之葱"
+            },
+            {
+              "text": "菽則足以供羮矣"
+            },
+            {
+              "text": "當時近邑有腹痛久不已諸醫不能治日漸甚而後"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第5欄聞来旁小墨",
+              "text": "其",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第5欄是字旁朱字",
+              "text": "見",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "思久之／出施之／不中者／妙訣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "思久之",
+                "出施之",
+                "不中者",
+                "妙訣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "天縱之乎／命／末是",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "天縱之乎",
+                "命",
+                "末是"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "男／陳善／敬輔／貫齋／白翁後",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "男",
+                "陳善",
+                "敬輔",
+                "貫齋",
+                "白翁後"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "若州／父／京日／吉埜",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "若州",
+                "父",
+                "京日",
+                "吉埜"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "預／来／俟／慰勉／是",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "預",
+                "来",
+                "俟",
+                "慰勉",
+                "是"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "假山／曰／日月逝矣／豪邁憂",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "假山",
+                "曰",
+                "日月逝矣",
+                "豪邁憂"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "陋俗／郷山／秀矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "陋俗",
+                "郷山",
+                "秀矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "浩矣／所關／小山池乎",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "浩矣",
+                "所關",
+                "小山池乎"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "菽／矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "菽",
+                "矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "已／治",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "已",
+                "治"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "時",
+          "candidates": [],
+          "note": "第6欄「時」旁為小朱字，首末恐、乎較明，中字候睹／賭。抱持句「極莫」依字形。「其父心」父字待核。第9欄首姓名候奧村良筑。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "極莫",
+          "candidates": [],
+          "note": "第6欄「時」旁為小朱字，首末恐、乎較明，中字候睹／賭。抱持句「極莫」依字形。「其父心」父字待核。第9欄首姓名候奧村良筑。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "其父心",
+          "candidates": [],
+          "note": "第6欄「時」旁為小朱字，首末恐、乎較明，中字候睹／賭。抱持句「極莫」依字形。「其父心」父字待核。第9欄首姓名候奧村良筑。"
+        }
+      ],
+      "observations": "右面：第6欄「時」旁為小朱字，首末恐、乎較明，中字候睹／賭。抱持句「極莫」依字形。「其父心」父字待核。第9欄首姓名候奧村良筑。 左面：第2欄懷依黑墨候讀。第3欄陳善後似字，號、号據形區分。第5欄慰勉連筆，暫讀。第6欄豪邁後字候憂／衰，日月後是逝形。「先朱後墨」等先後無從此圖定。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "b3cad036b5a87d2b89035e68cb1c84d543a8d818ce98419d36051f485416e287",
+      "bytes": 272417,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "又大下血痛亦不止者凡其投藥三物七物建中柴"
+            },
+            {
+              "text": "胡之類無所不至幸白翁宿于敝廬因請為賜一診"
+            },
+            {
+              "text": "翁許諾乃負患者来翁曰此病難動搖予何為辭歩"
+            },
+            {
+              "text": "他日若欲再診則予必往爾卒診曰敖哉斯邑也而"
+            },
+            {
+              "text": "得此病也天哉予之適来於此也予當信宿疼患之"
+            },
+            {
+              "text": "止不待歸期即與炙甘草湯翁將歸去患者果能歩"
+            },
+            {
+              "text": "来謝乃再診曰予歸後恐或一發矣唯不如與同藥"
+            },
+            {
+              "text": "如用私智則必喪命焉乃與同方三十日所遂不復"
+            },
+            {
+              "text": "發焉"
+            },
+            {
+              "text": "白翁嘗過弊廬便予之二女摩脚白翁為人長大故"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "血／不止者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "血",
+                "不止者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "之類／不至／敝廬／末診",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "之類",
+                "不至",
+                "敝廬",
+                "末診"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "許諾／患者来／曰／動搖／辭歩",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "許諾",
+                "患者来",
+                "曰",
+                "動搖",
+                "辭歩"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "再診則／爾／曰／邑也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "再診則",
+                "爾",
+                "曰",
+                "邑也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "病也／此也／信宿",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "病也",
+                "此也",
+                "信宿"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "歸期即／湯／歸去",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "歸期即",
+                "湯",
+                "歸去"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "来謝／診曰／一發矣／末藥",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "来謝",
+                "診曰",
+                "一發矣",
+                "末藥"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "喪命焉／所",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "喪命焉",
+                "所"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "焉",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "弊廬／脚／長大",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "弊廬",
+                "脚",
+                "長大"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "足亦過常二女力屈生睡眠齊脚以驚之因曰予之"
+            },
+            {
+              "text": "轉臥常如此"
+            },
+            {
+              "text": "江州多羅尾先候患失精數歳與人并坐而不自識"
+            },
+            {
+              "text": "其漏泄諸醫尽精不得治故遠延師師至將診之候"
+            },
+            {
+              "text": "因問曰寡人之病可治乎曰可治候乃屈一指尋又"
+            },
+            {
+              "text": "問如初師曰可治候又屈一指如斯不已遂十指抱"
+            },
+            {
+              "text": "飯而去師是即癇以三黃瀉心湯乃全治矣候大怡"
+            },
+            {
+              "text": "而服之三歳且學醫事於師云"
+            },
+            {
+              "text": "候之夫人嘗患嘔喘夫人平居多忘嫉師診之亦知"
+            },
+            {
+              "text": "其癇也與同方至五歳遂全已今候亦有疾而屬於"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "過常／齊脚／驚之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "過常",
+                "齊脚",
+                "驚之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "如此",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "先候患／數歳／坐",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "先候患",
+                "數歳",
+                "坐"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "漏泄／不得治／延師／診之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "漏泄",
+                "不得治",
+                "延師",
+                "診之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "問曰／可治乎／曰可治／一指",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "問曰",
+                "可治乎",
+                "曰可治",
+                "一指"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "如初／師曰可治／又屈一指／不已",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "如初",
+                "師曰可治",
+                "又屈一指",
+                "不已"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "去／即癇／瀉心湯／全治矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "去",
+                "即癇",
+                "瀉心湯",
+                "全治矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "三歳／師云",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "三歳",
+                "師云"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "嘔喘／嫉師",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "嘔喘",
+                "嫉師"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "其癇也／全已",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "其癇也",
+                "全已"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "敖",
+          "candidates": [],
+          "note": "第4欄「敖」右攵清楚，前半與敖相近，仍候讀。第5欄信宿後放大見疒旁，依形候疼。第6欄首止疑從上欄末所接，日本字形歩據原。"
+        }
+      ],
+      "observations": "右面：第4欄「敖」右攵清楚，前半與敖相近，仍候讀。第5欄信宿後放大見疒旁，依形候疼。第6欄首止疑從上欄末所接，日本字形歩據原。 左面：第1欄屈下似生，齊脚兩字之上斜黑筆，整句候讀。第3欄末「并」看不見立旁，依形。第9欄「多忘嫉」兩字需覆核。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "9bb8ce13fb78b6aa31d60412e77c639363852d20cfa3b43af58eba98e3f2936e",
+      "bytes": 276344,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "癇近頃吐血久不止自作三黃加地黃湯而服然不"
+            },
+            {
+              "text": "治終招予々至曰此方実適病豈有他邪但去地黃"
+            },
+            {
+              "text": "加芒消益佳雖然尚有方畧請作劑芩連各六分大"
+            },
+            {
+              "text": "黃一戔二分芒硝一戔以為一劑以水一合半小便"
+            },
+            {
+              "text": "半合合煮一沸乃服日三劑三日全止"
+            },
+            {
+              "text": "凡事有不可不為者有不為亦佳者有不可為而為"
+            },
+            {
+              "text": "之者有為之而不若不為者如風湿漫腫之類世醫"
+            },
+            {
+              "text": "必深刺之其説言毒膿在深處不速刺以去之益腐"
+            },
+            {
+              "text": "蝕其內蔓行難測然予今不刺之何則既刺之後三"
+            },
+            {
+              "text": "十日而愈不刺之亦必以三十日愈此刺與不刺同"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "癇／久不止／服",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "癇",
+                "久不止",
+                "服"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "治／招予／至曰／適病／他邪",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "治",
+                "招予",
+                "至曰",
+                "適病",
+                "他邪"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "佳／方畧／作劑／六分",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "佳",
+                "方畧",
+                "作劑",
+                "六分"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "二分／一戔／一劑",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "二分",
+                "一戔",
+                "一劑"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "半合／一沸／三劑／全止",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "半合",
+                "一沸",
+                "三劑",
+                "全止"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "首者／佳者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首者",
+                "佳者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "首之者／不為者／之類",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首之者",
+                "不為者",
+                "之類"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "刺之／深處／去之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "刺之",
+                "深處",
+                "去之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "內／難測／刺之／之後",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "內",
+                "難測",
+                "刺之",
+                "之後"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "首愈／次愈／不刺",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首愈",
+                "次愈",
+                "不刺"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "其功也蓋內服托裏之劑則膿毒漸浮終自潰出復"
+            },
+            {
+              "text": "何之蔓行凡節脈有條理而皮外不可見之故妄刺"
+            },
+            {
+              "text": "之則愈後多害屈伸世醫不知間致此誤至指末皆"
+            },
+            {
+              "text": "然治瘡腫者不可不知也"
+            },
+            {
+              "text": "風犬鼠毒古今論其治唯至猫毒不言其治方也予"
+            },
+            {
+              "text": "嘗為家猫所咬其猫非有痛毒也予素愛黃鸝一日"
+            },
+            {
+              "text": "家猫殺黃鸝予大怒拉殺家猫々臨死咬予在肘上"
+            },
+            {
+              "text": "然當時不知痛痒至半夜而發腫痛傷處上下引紅"
+            },
+            {
+              "text": "絲隱々惡心懊憹苦悶不可名狀於是服木鼈犀角"
+            },
+            {
+              "text": "之類不可勝計而不見一効也因普探諸方書檢閲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "其功也／之劑／漸浮／潰出",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "其功也",
+                "之劑",
+                "漸浮",
+                "潰出"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "蔓行／條理／見之故",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "蔓行",
+                "條理",
+                "見之故"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "之／屈伸／此誤",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "之",
+                "屈伸",
+                "此誤"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "然／腫者／也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "然",
+                "腫者",
+                "也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "鼠毒／其治／猫／猫毒／也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "鼠毒",
+                "其治",
+                "猫",
+                "猫毒",
+                "也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "所咬／毒也／黃鸝",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "所咬",
+                "毒也",
+                "黃鸝"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "黃鸝／家猫／予／肘上",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "黃鸝",
+                "家猫",
+                "予",
+                "肘上"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "痛痒／腫痛",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "痛痒",
+                "腫痛"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "絲／惡心／苦悶／名狀",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "絲",
+                "惡心",
+                "苦悶",
+                "名狀"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "之類／勝計／効也／方書",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "之類",
+                "勝計",
+                "効也",
+                "方書"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第2欄予後重文號另有朱點。實字作実、略字作畧。第3欄芒消、第4欄芒硝各依其實際字形，重量字形近戔。 左面：第1欄托字及第3欄間字按形。猫、痒、鼈依原字。第6欄「痛毒」首字疒旁，候痛／瘋。第7欄家猫後重文亦見朱點，第9欄隱後小重文依圖。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "a21da23b326a158c8e3ede4ff268e19900a9741bedc6c97e17a5c0ab25f05899",
+      "bytes": 274890,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "毒獸咬傷之治、適得水晶能解諸獸毒之文、乃單煮"
+            },
+            {
+              "text": "服之一盞、而痛如消、然稍久痛復發、因後服前藥則"
+            },
+            {
+              "text": "痛卽止、但服遠痛必發、其發也殆微漸甚、遂至不可"
+            },
+            {
+              "text": "忍、則服一盞、日夜如此、別作黃連解毒湯加虎脛骨、"
+            },
+            {
+              "text": "兼服、凡經數十日而得治、其咬處綠色而微腫、鍼之"
+            },
+            {
+              "text": "不出血水、後遂復故、"
+            },
+            {
+              "text": "吉益氏曰、口中乃齒痛、共宜用甘草湯、此治也疼痛"
+            },
+            {
+              "text": "極甚、叫號不堪者、而後有効、其緩者服之、痛反甚、凡"
+            },
+            {
+              "text": "齒齦腐爛、或出血或疼痛者、及口舌諸痛、皆宜敷唇"
+            },
+            {
+              "text": "苞散、其方以辰砂芒硝二味為末也、"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "投輕粉後、口內腐爛、流涎炊痛者、宜黃連解毒湯、或"
+            },
+            {
+              "text": "涼膈散加蜀漆拓榴皮、或清胃湯加莎草拓榴皮、或"
+            },
+            {
+              "text": "三黃加辰砂、為含藥亦佳、凡是皆為以榴皮為主、嘗"
+            },
+            {
+              "text": "見磨故鏡光、取一物磨之、銀光盡剝為銅色物、於是"
+            },
+            {
+              "text": "以炭或礪去其塵垢及生鑢之類、然後更塗梅酢、加"
+            },
+            {
+              "text": "水銀一滴、則銀光全然復故、其初剝去銀色者、卽"
+            },
+            {
+              "text": "石榴皮也、故能解其毒、"
+            },
+            {
+              "text": "用礬石之類、毒害不除者、莫如冷水、"
+            },
+            {
+              "text": "水腫毒攻心、或脚氣沖心向死者、當用赤小豆湯、而"
+            },
+            {
+              "text": "功爭頃刻者、有一法以救之、其法先取巴豆去皮碎、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第三欄「殆」、第九至十欄方名「唇苞散」候讀。頓形標點為原朱筆。 左面：左頁第一欄「炊」、第二欄「拓」、第五欄「礪」「鑢」、第八欄「礬」均候讀。「拓榴」留底本形。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "421fd3cc44600618d4e33d8c89ae8e88e455a8c174c4170a0609a35c955dbbe7",
+      "bytes": 268763,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "與赤小豆合炒、而去巴豆用赤小豆、以從本方、益以"
+            },
+            {
+              "text": "豆油和小豆也、如此則雖煮服能見効、且急遽奏効、"
+            },
+            {
+              "text": "世人漫言巴豆煮服無効者妄矣、"
+            },
+            {
+              "text": "一閑齋於病者、必使其監者預條記身體諸處情思"
+            },
+            {
+              "text": "言語、及飲食好惡、動作二便等、日夜觀其証狀變態、"
+            },
+            {
+              "text": "而盡記諸各條之下、服藥記其多少、飲食載其物件、"
+            },
+            {
+              "text": "詳悉極甚、故臨病家一閱其記、則始終立盡、不俟煩"
+            },
+            {
+              "text": "言、"
+            },
+            {
+              "text": "翁家修合稱一分劑二分劑、所謂一分劑者、以一分"
+            },
+            {
+              "text": "準一兩也、二分劑以二分準二兩也、且藥籠中常設"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "秤、凡合藥無不用秤者、其重分歧可知也、"
+            },
+            {
+              "text": "翁家煮藥、皆以麻布裹之、唯石膏則以綿布裹之、不"
+            },
+            {
+              "text": "與他藥相混、"
+            },
+            {
+              "text": "齒痛難堪者、有宜桃仁承氣湯者、"
+            },
+            {
+              "text": "凡服甘遂之末、而惡心甚者、多吐出藥末、然亦能下"
+            },
+            {
+              "text": "利、不必忌吐也、然患者以苦烈難耐往〻忌服、故欲"
+            },
+            {
+              "text": "用甘遂者、合干姜為丸、或以生姜湯服甘遂散亦佳、"
+            },
+            {
+              "text": "如此則多不吐、然其効亦緩、"
+            },
+            {
+              "text": "一人患噦五十日許、諸医束手、師診之熟思甚久、因"
+            },
+            {
+              "text": "投建中湯二劑全止、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第四欄「閑」及第七欄「立盡」「俟」候讀。 左面：左頁第一欄「歧」、第九欄「噦」候讀；「干姜」「生姜」依底本形。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "b2fa505a9df3c30a5da67f1ad1861a1b1e9305fcc11d53e91d261afb8e180208",
+      "bytes": 277778,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一人患吐血久不止、患者初在京、並河氏治之無効、"
+            },
+            {
+              "text": "斷曰必死矣、終公歸予之近邑而請予、〻預聞其証、"
+            },
+            {
+              "text": "竊謂若芩連之類、則京人必不置焉、是或柏葉湯所"
+            },
+            {
+              "text": "主也、〔省錄〕既至診之、徐〻吐鮮"
+            },
+            {
+              "text": "血塊於是、〔省錄〕遂全止、"
+            },
+            {
+              "text": "黃土湯能止下血、然痢家用之多不佳、"
+            },
+            {
+              "text": "滾痰丸以鎮墜之功為主、故癇家用之為佳、唯當長"
+            },
+            {
+              "text": "服、"
+            },
+            {
+              "text": "硝石大黃圓、公人參加沉香、其効大甚、"
+            },
+            {
+              "text": "虛勞多汗寒熱咳嗽諸証備者、先與小建中湯、胸動"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "甚而呼吸迫者、宜建中加竜骨牡蠣湯、咳甚者宜麥"
+            },
+            {
+              "text": "門冬湯、共必兼起癈丸、凡此丸男婦皆用、"
+            },
+            {
+              "text": "瀉脾湯亦宜虛勞、此方不唯虛勞、凡所謂積聚之類、"
+            },
+            {
+              "text": "有腹痛者、往〻用之、此方本出於外臺、松原家多用"
+            },
+            {
+              "text": "之、然有效者少、"
+            },
+            {
+              "text": "發狂無如三黃加芒硝湯、兼用瀑布泉為妙、凡用瀑"
+            },
+            {
+              "text": "布泉於狂家、世人亦既知之、然未知其法也、故多不"
+            },
+            {
+              "text": "見効、且世人〔省錄〕故時有死、予法"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：右頁第九欄「公」依形候讀。 右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左頁第二欄「兼」「癈」字形候讀。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "0d928d33f2b2974506b487e4000c40e9839aa9fdb3335d5a03c1a6d58d0fc49a",
+      "bytes": 288871,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "伏水南部邸傍有酒店、鬻一奇藥、稱曰狂藥、觀之末"
+            },
+            {
+              "text": "藥也、而以水煉之煮、如稀粥、令患者食焉、試之數効、"
+            },
+            {
+              "text": "是以師家欲得其方、百方求之、不得、嚐之不辨味、捻"
+            },
+            {
+              "text": "不別形、但粥上現銀光宛如雲母而雜、惜乎方之不"
+            },
+            {
+              "text": "傳也、同處有鍛冶工亦鬻一藥、能主治癰瘡結毒潰"
+            },
+            {
+              "text": "乳如厲者、此方亦求而不得、社友相會曰、能探得此"
+            },
+            {
+              "text": "方者、莫如喜又、予辭不得、乃往謀之、知方者"
+            },
+            {
+              "text": "其家僕也、而来自加刕寓于此云、乃欲通言、莫由得"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第九欄「喜又」下右小字",
+              "text": "喜又翁",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第九欄「喜又」下左小字",
+              "text": "之字",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "親、因謀為接友、數相會、而遂大親、於是發其所願彼"
+            },
+            {
+              "text": "答曰、其本為鍛冶之子、其道有深邃難悟者、唯欲得"
+            },
+            {
+              "text": "之、遠来于此、且暮致勞苦耳、故得道之難、今汝亦為"
+            },
+            {
+              "text": "道致勞苦、可謂篤矣、當傳方、雖然我有一書、不先傳"
+            },
+            {
+              "text": "之、不可以乃授其書、且命曰、自今以往日来于予僑"
+            },
+            {
+              "text": "居、當口授其妙訣矣、自是每日往伏水受其說而筆"
+            },
+            {
+              "text": "記一二紙其書、以國字、皆碌〻可厭之言也、然唯欲"
+            },
+            {
+              "text": "得一方、而忍為之、凡五十餘日、所授之言二卷、而既"
+            },
+            {
+              "text": "盡一卷、於是益悅其篤志、遂傳其方、乃歸傳之師〻"
+            },
+            {
+              "text": "大悅而受之社中、稱曰喜又丸、以顯其功也、予又號"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "伏水",
+          "candidates": [],
+          "note": "右頁第三欄「伏水」照錄；第六欄「雜」、第八欄「乳如厲」、末欄「加刕」候讀，刕疑州異體。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "雜",
+          "candidates": [],
+          "note": "右頁第三欄「伏水」照錄；第六欄「雜」、第八欄「乳如厲」、末欄「加刕」候讀，刕疑州異體。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "乳如厲",
+          "candidates": [],
+          "note": "右頁第三欄「伏水」照錄；第六欄「雜」、第八欄「乳如厲」、末欄「加刕」候讀，刕疑州異體。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "加刕",
+          "candidates": [],
+          "note": "右頁第三欄「伏水」照錄；第六欄「雜」、第八欄「乳如厲」、末欄「加刕」候讀，刕疑州異體。"
+        }
+      ],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 右面：右頁第三欄「伏水」照錄；第六欄「雜」、第八欄「乳如厲」、末欄「加刕」候讀，刕疑州異體。 左面：左頁第一欄「接」、第三欄「暮」、第五欄「命」候讀。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "3443db0f65669b48bc43cf9198f09ed3a0ef15acf811ec3bf27b7533f2b5a98f",
+      "bytes": 280529,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "曰寶壽丸、爾後試之、多得明驗、故師家終投諸家藏"
+            },
+            {
+              "text": "方中、改名甲字丸、其乙字丸、卽所謂紫金丹也、蓋此"
+            },
+            {
+              "text": "二方足以主治癰瘡結毒、"
+            },
+            {
+              "text": "治癘疾用半夏瀉心湯、加知母枳梩之類、截藥別有"
+            },
+            {
+              "text": "一方、其方單用常山、而不擇佳者決無効焉、如投之"
+            },
+            {
+              "text": "不止、宜灸腎大腸兩腧及腰眼湧泉、無不効、"
+            },
+            {
+              "text": "師家間用卷石湯、此方多奇効、凡漫腫堅硬、皮色不"
+            },
+            {
+              "text": "變、而其勢甚者施之、但隨其毒勢緩急而用之、一病"
+            },
+            {
+              "text": "者、淋瀝疼痛、引及肛內、會厭凸起楚痛特甚、凡會厭"
+            },
+            {
+              "text": "如一潰、則尿水流泄、滴於其口、終不得全愈、且毒之"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "將集、藥力不得卒移之、於是以卷石湯煎之、內服小"
+            },
+            {
+              "text": "解毒加芒硝湯、兼以宝壽丸攻之、遂全愈、而不復潰、"
+            },
+            {
+              "text": "其功用多此類也、"
+            },
+            {
+              "text": "中風癱瘓不遂、亦用卷石湯、"
+            },
+            {
+              "text": "一人患奇疾、舌形三尖〻、有金色條八、其面生黑毛、"
+            },
+            {
+              "text": "其背赤色、唯微痛而已、投永劑而愈、"
+            },
+            {
+              "text": "凡腦漏鼻淵之類、宜永劑、"
+            },
+            {
+              "text": "所謂失榮七種者不治、"
+            },
+            {
+              "text": "妊婦惡阻、或因瘀血、或以他因而羸瘦特甚、幾足為"
+            },
+            {
+              "text": "奇者間有之、此証至產後難復、故使之強食鹿肉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第八欄「治」下右小字",
+              "text": "按失榮七種未",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第八欄「治」下左小字",
+              "text": "詳出於何書",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第四欄「癘」「梩」、第七欄「卷」、第九欄「會厭」候讀。 左面：左頁第四欄「癱瘓」、第六至七欄「永劑」候讀。末欄「故」下有刻意空白。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "2c2955c38ad52b42ccddd455155e1d62e5bedccfda13bb4ad1ff72bc46c50465",
+      "bytes": 278284,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "最佳、如斯者、其所產之子亦甚小、"
+            },
+            {
+              "text": "逆經者、宜抵當丸、"
+            },
+            {
+              "text": "娩後胞衣不下、宜用茄子蒂、又宜用蟹丸、共有奇効、"
+            },
+            {
+              "text": "嘗有胞衣不下及十有五日者、用抵當起癈丸、遂得"
+            },
+            {
+              "text": "下、"
+            },
+            {
+              "text": "不妊者多因其人有久瘀血也、故師家唯用加減地"
+            },
+            {
+              "text": "黃丸、此方經驗甚多、又宜數灸然谷各五十壯為佳、"
+            },
+            {
+              "text": "凡經不調者、皆灸脚足為佳、亦宜然谷三里之類、"
+            },
+            {
+              "text": "難產莫如用酒、又莫如雲母、故遇分娩移時而乞藥"
+            },
+            {
+              "text": "者、則與桂枝茯苓加大黃湯、或加酒或加雲母、"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "一婦人妊娠數月、適當夏月、下利呃噦終、噓唏噯氣"
+            },
+            {
+              "text": "不已、須臾將絕、諸医踟蹰、家人狼狽、不得救焉、尋又"
+            },
+            {
+              "text": "發暈如眠、乃以熨斗盛炭火、以嚴酢注火上、以薰患"
+            },
+            {
+              "text": "婦之鼻、別作大柴胡湯、急取故鼇盤、以刀子刮其背"
+            },
+            {
+              "text": "為末、加諸湯中而與服之、暈卽止、熟眠全、"
+            },
+            {
+              "text": "下市村、河內屋弥兵衛女子、不大便數日、肛如將裂、"
+            },
+            {
+              "text": "服下劑過多、而無寸効、或以油導、或以蜜導、亦不見"
+            },
+            {
+              "text": "効、於是取生蜜不令凝結、以唧筒射入于肛中、下踊"
+            },
+            {
+              "text": "躍出一塊、觀之則石也、蓋鯨谷之類、生于腸中者歟、"
+            },
+            {
+              "text": "其石今猶存於其家、因謂天地之廣大、人身之無限、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第五欄「為末」下右小字",
+              "text": "取過火",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第五欄「為末」下左小字",
+              "text": "焦黑者",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第四欄「癈」、第八欄「脚足」候讀。 左面：左頁第一欄「噦」「噯」、第三欄「嚴酢」、第四欄「鼇盤」、第九欄「鯨谷」候讀。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "4c03bd9412397f462bc787faa90b8cfa4ffa8deb770d8d9a31916341d23fd309",
+      "bytes": 263028,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "無所不有、苟為医者不可不尽心也、一人將去髭鬚、"
+            },
+            {
+              "text": "鼻下有一小痣、誤剪之、血流不止、遂死、蓋血痣矣、"
+            },
+            {
+              "text": "娼婦始入房十日之間、發寒熱腹痛者、世稱曰淫腹、"
+            },
+            {
+              "text": "宜主用海蘿、如寒熱不已者、作小柴胡湯加海蘿以"
+            },
+            {
+              "text": "與之、"
+            },
+            {
+              "text": "非所謂胸痺心痛之類、而胸咽微痛或不痛而不利"
+            },
+            {
+              "text": "者、名為氣結、順氣劑主之、"
+            },
+            {
+              "text": "所謂癇者、以有搐搦瘈瘲之類得之名也、今所謂癇"
+            },
+            {
+              "text": "証者則不然、所患多在七情、宜稱氣疾、東洋之徒得"
+            },
+            {
+              "text": "其稱、"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "所謂癲癇者、師家專用三黃加芒硝湯、予與征蠻丸、"
+            },
+            {
+              "text": "往〻有効、小兒疳疾、實因胎毒、故其性偏骨立、下利"
+            },
+            {
+              "text": "腹脹之類、如一治則發頭瘡也必甚矣、"
+            },
+            {
+              "text": "小兒疳疾莫如雞膽丸、疳疾諸証甚多、湯藥各隨其"
+            },
+            {
+              "text": "証、必兼用此丸為佳、"
+            },
+            {
+              "text": "中暑霍乱卒厥者、或用調胃承氣湯、發汗而愈、不可"
+            },
+            {
+              "text": "不知、"
+            },
+            {
+              "text": "一小兒咳逆噓啼、痰喘氣急、或時發熱、或時下利、間"
+            },
+            {
+              "text": "搐搦遺人事、衆以為急驚、或以為馬脾治之無効、親"
+            },
+            {
+              "text": "戚皆失色、予謂唯是太陽中風也、而痰飲上逆殊甚、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第一欄「去」、第二欄「痣」、第四欄「蘿」、第八欄「瘈瘲」候讀。 左面：左頁第一欄「征蠻丸」、第八欄「噓啼」、第九欄「遺」「馬脾」候讀。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "068093afbbe0d2674b2c59e26992a12147006bcbdb58e08fe0700e4b83541dc4",
+      "bytes": 265820,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "是以氣急搐搦至于此耳、乃與小青竜湯、兼用奇應"
+            },
+            {
+              "text": "丸卽已、"
+            },
+            {
+              "text": "奇應丸能去氣痞、故又能降逆氣、"
+            },
+            {
+              "text": "小兒有咳兆者、〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕小兒必能食之、多用必効、"
+            },
+            {
+              "text": "小兒有咳兆者、多屬疳家、蓋同原毒也、凡疳家雞膽"
+            },
+            {
+              "text": "丸主之、所謂驚風諸症、奇應丸主之、有小兒家不可"
+            },
+            {
+              "text": "一日無此二丸也、"
+            },
+            {
+              "text": "洗金瘡用人尿亦可、蓋人中白、能止血適同趣、"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "人中白能治血暈、不問產前後、與金創損傷、以井花"
+            },
+            {
+              "text": "水與人中白少許、暈必卽止、"
+            },
+            {
+              "text": "金瘡出血不止者、欲急止血、須以患處浸冷水矣、血"
+            },
+            {
+              "text": "出者、熱氣聚于其處且、血逆出、故雖灌水不得內入"
+            },
+            {
+              "text": "者、血止後入水則必有害、"
+            },
+            {
+              "text": "金瘡出血難止者、先撒淡紅粉於傷處、敷金油於其"
+            },
+            {
+              "text": "上以為蓋、此為常法然、猶其難止者、以紙條緊縛之、"
+            },
+            {
+              "text": "以淡紅粉施其間、隨縛隨施纏畢而不妄動則血止"
+            },
+            {
+              "text": "矣、如其更甚者、敷卷石粉、痛發必止、"
+            },
+            {
+              "text": "凡金瘡血一止、而其創口再流出者為特難止、故創"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 右面：右頁第一欄「搐搦」、第三欄「痞」、第十欄「適」候讀。 左面：左頁第七欄「蓋」及第九欄「卷」候讀。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p22",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00022_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "file": "22.jpg",
+      "sha256": "76c7d56e95c22d44765da55e9c299d6c1330bd763e383dc8965ba5269e74bc6d",
+      "bytes": 268311,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "家切誡動搖、"
+            },
+            {
+              "text": "打撲損骨節者、有失臼有折損、浪華城南難波鄉人、"
+            },
+            {
+              "text": "多療之、手能熟之、故人皆以為得然、間有不治者、是"
+            },
+            {
+              "text": "由調攝不得宜故也、凡欲治之、失臼者則宜先引後"
+            },
+            {
+              "text": "屈必得其所、若得而又失者、以日久而筋舒肉脫也、"
+            },
+            {
+              "text": "宜補助攝養以俟日、能如是則無不痊者矣、其掌後"
+            },
+            {
+              "text": "骨旁出者、整骨稱突臂、此症必不治、"
+            },
+            {
+              "text": "折骨者、先以手理整之、施膏於其上、以細板數枚圍"
+            },
+            {
+              "text": "之、每板相去各二分許、更以長塵紙者六疊、以"
+            },
+            {
+              "text": "緊纏其上、然後謹守保攝、則全愈、凡損骨者腫痛特"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第九欄「紙」「者」間右小字",
+              "text": "方俗",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第九欄「紙」「者」間左小字",
+              "text": "所稱",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "甚、非善巧操得、必不得治也、"
+            },
+            {
+              "text": "一人自高處墜、大撲尾骶、須臾前陰將出、赤色細條"
+            },
+            {
+              "text": "長可二三寸者、以鑷子拔出之、尋又出凡六十餘條、"
+            },
+            {
+              "text": "而後已後、遂無害、不解其由、"
+            },
+            {
+              "text": "乳汁不足者、多因食養不足也、必因胸間有病也、以"
+            },
+            {
+              "text": "天花粉作餅令食甚佳、"
+            },
+            {
+              "text": "陰挺宜灸腎俞及大腸俞、"
+            },
+            {
+              "text": "香豉能治惡心、其製用艾葉為佳、"
+            },
+            {
+              "text": "小兒驚搐多宜三黃瀉心湯、如有表証者、宜葛根湯、"
+            },
+            {
+              "text": "痘家宜甘連湯、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第七欄「突臂」、第九欄「塵」候讀，原寫地名「浪華城南難波鄉」。 左面：左頁第二欄「骶」、第三欄「鑷」、第四欄「已後」、末欄「甘連」候讀。末欄痘家只記病家照護，無接種處理。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p23",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00023_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "file": "23.jpg",
+      "sha256": "f22aeaf0856d7a377d1ef2c52a454453c7dbe6e15d671cef8c8f7903a39f51c3",
+      "bytes": 270632,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "黃胖病宜鎮心丸、癇家宜辰砂丸、二方相近、蓋其病"
+            },
+            {
+              "text": "相類也、黃胖病又有以不換金加為丸用"
+            },
+            {
+              "text": "之數見効者、所謂注舩注車之類、皆宜辰砂丸、"
+            },
+            {
+              "text": "癇家腹脹難治者、宜生〻乳、凡喘吼癲癇之類、癇疾"
+            },
+            {
+              "text": "難動者、皆宜用之、"
+            },
+            {
+              "text": "一婦人森服其、患淋瀝疼痛苦楚難忍、旁人之動作"
+            },
+            {
+              "text": "言語皆徹其痛處、諸治無効、予用生〻乳、卒得効"
+            },
+            {
+              "text": "癇之為病、其原生於瘀血、嘗見單方水蛭丸、令長服、"
+            },
+            {
+              "text": "以治狂者、"
+            },
+            {
+              "text": "瀑布泉濁水者不佳、宜擇清冷者焉、狂家用之者、世"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第二欄「金」「加」間右小字",
+              "text": "後世方所",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第二欄「金」「加」間左小字",
+              "text": "謂正氣散",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第六欄「森服」旁小字",
+              "text": "之女",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "人能知之、然亦宜癇、"
+            },
+            {
+              "text": "癇家有數証、有火熱者、有瘀血者、舌有苔、其色或黃"
+            },
+            {
+              "text": "或黑、常苦上衝、脈數而有力者、為火熱癇症、兼見血"
+            },
+            {
+              "text": "証者為瘀血、癇証火熱者、宜瀑布、瘀血者宜三黃瀉"
+            },
+            {
+              "text": "心湯、加犀角芒硝或加沉香姜黃之類、凡犀角短者"
+            },
+            {
+              "text": "真、世人唯擇烏色者、然白色者亦有効堪用、"
+            },
+            {
+              "text": "火熱癇宜服麥門冬加石湯、間有宜柴胡加石湯者、"
+            },
+            {
+              "text": "瘀血癇手足痿廢者宜天麻、"
+            },
+            {
+              "text": "治痢疾用半夏瀉心湯加檳榔而佳、禁口者亦間見"
+            },
+            {
+              "text": "効、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第一欄「黃胖」、第三欄「注舩注車」、第六欄「森服其」候讀。「生〻乳」照重文字形。 左面：左頁第七欄「加石」、第八欄「廢」、第九欄「佳」候讀。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p24",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00024_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "file": "24.jpg",
+      "sha256": "3c3aae17e097d1c61888d2115c1beb82148f0577c47756916b96272c74c899a7",
+      "bytes": 264146,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "禁口痢、宜真武湯者罕有之、"
+            },
+            {
+              "text": "凡痢疾莫如踈滌、不可行者、宜平和欲別之、宜以灘"
+            },
+            {
+              "text": "準知、"
+            },
+            {
+              "text": "凡癰大者、或灸或大鍼此為法、而施之反益甚者、間"
+            },
+            {
+              "text": "有之、是表裏陰陽之異也、不可不審、"
+            },
+            {
+              "text": "桃花湯之於痢疾、必須正其証候、而後用焉、如誤失"
+            },
+            {
+              "text": "其機、則往〻至困地、"
+            },
+            {
+              "text": "痢家肛門脫出者、宜厚朴七物湯、其翻肛出血者、宜"
+            },
+            {
+              "text": "同方加阿膠主之、"
+            },
+            {
+              "text": "平素脫肛微者、以卷石湯煎之則立復、如甚者以猪"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "右頁第二欄「滌」「不」間小字",
+              "text": "疏滌",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "油少熬加熊膽少許以雞翎塗之、雖長過尺者、必治、"
+            },
+            {
+              "text": "內皆服大黃之劑而佳、"
+            },
+            {
+              "text": "婦人經閉成癥瘕者、唯無如灸、雖遂成鼓脹者、灸及"
+            },
+            {
+              "text": "十番以上則必効、凡灸腎大小腸膀胱之諸俞及腰"
+            },
+            {
+              "text": "眼之類、初則每穴各七壯、後漸大而漸加壯數、內服"
+            },
+            {
+              "text": "桂苓湯、兼用硝石大圓而佳、大黃蟅虫丸、疑當必有"
+            },
+            {
+              "text": "効、以癥虫久不至、皆用家方地黃丸、人或謂抵當丸"
+            },
+            {
+              "text": "不効大誤也、長服而後見効、是為真効、人皆未至于"
+            },
+            {
+              "text": "此、輕忽癈之、可笑之甚、飲病或腹滿呃吐者、宜灸背"
+            },
+            {
+              "text": "部膏肝脾腎大腸諸俞、日灼十火、久之必効、凡癇亦"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第二欄「踈」「灘」、第四欄「癰」、第十欄「卷」候讀。 左面：左頁第一欄「熬」「翎」、第六至七欄「蟅虫」「癥虫」、第九欄「癈」、末欄「膏」候讀。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p25",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00025_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "file": "25.jpg",
+      "sha256": "338d203fb6939ba43e25381ef8704ed90e4934ec5525c105bcff9a607ecf987b",
+      "bytes": 272740,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "宜灸其諸穴、但不至二三萬決無効、至六七萬十萬"
+            },
+            {
+              "text": "餘、其結於肩背者、灼肩之諸穴佳、卽肩井大椎風門"
+            },
+            {
+              "text": "肺俞之類、每穴各五十壯數、十日而益佳、"
+            },
+            {
+              "text": "素患黴毒人、後發癲癇瘈瘲之類者、多因粉毒可考、"
+            },
+            {
+              "text": "金創出血用冷水者、前既言之、漬之法、假令足有創"
+            },
+            {
+              "text": "者、以膝以下尽沒水中、如甚者腰以下尽漬之、傷處"
+            },
+            {
+              "text": "冷徹血必止、他處皆準之、上市人某、嘗使口医拔去"
+            },
+            {
+              "text": "一齒、血出不止、凡三日所、急延予、至以冷水洗口內、"
+            },
+            {
+              "text": "其法衝便吐、隨衝隨吐、須臾盡一盤水、其間塗辰苞"
+            },
+            {
+              "text": "散、又服三黃加芒硝地黃阿膠湯、互促之、遂全已、已"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "後半歲、周身全無血色、然終復故、"
+            },
+            {
+              "text": "燒酎能止疼痛、故齒痛難止者、衝之必止、瘀血癇於"
+            },
+            {
+              "text": "婦人、則其人老而自愈者間有之、蓋婦人以經血月"
+            },
+            {
+              "text": "下、瘀血終盡也、素患癇之婦、產後不藥而自愈者亦"
+            },
+            {
+              "text": "有之、適與之同義、"
+            },
+            {
+              "text": "上市人某、嘗患緩風、服大檳榔湯數日、以速不効、至"
+            },
+            {
+              "text": "于京、請治於和田氏、和田氏診已、與大劑大檳榔湯"
+            },
+            {
+              "text": "十貼、兼以甘遂大黃丸、日服不過四五粒、以不大瞑"
+            },
+            {
+              "text": "眩為貴、既而全治、予謂和田氏頗進於技、近有請治"
+            },
+            {
+              "text": "者、多與無功藥方、今少壯之医、徒欲治病是、以不治、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第三欄「數」後見朱點，第四欄「瘈瘲」、第九欄末「辰苞」、第十欄「促」字候讀。朱筆頓形照錄。 左面：左頁第六欄「緩風」「以速」候讀；末欄「是」後的朱點留照底本。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p26",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00026_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "file": "26.jpg",
+      "sha256": "a4783d9ea2654af9a44c2d51fa340938dc252cb4ae5f9d9fb5d907f627728eab",
+      "bytes": 265658,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "不可不思焉、"
+            },
+            {
+              "text": "福井氏亦頗長方技、南都人松部某患瘵疾、請"
+            },
+            {
+              "text": "治於福井氏、投以麥門冬湯加黃芩甘粉、病家日遣"
+            },
+            {
+              "text": "使乞藥、必審告所患証狀、欲以出入進退藥味、福井"
+            },
+            {
+              "text": "氏容其言、而唯與同藥、凡經二歲終死、未嘗易一藥、"
+            },
+            {
+              "text": "櫻井平作学医於良山先生、其術稍確然、嘗語人曰、"
+            },
+            {
+              "text": "用藥之道、能行無功之藥、是為良工、蓋藥雖無功、然"
+            },
+            {
+              "text": "病自愈其間、"
+            },
+            {
+              "text": "夫医有上工有下工、對病患欲愈、執方藥欲効者、是"
+            },
+            {
+              "text": "為下工、唯熟察病、能好用無効之藥者、是為上工、蓋"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第二欄「方技」「南」間右小字",
+              "text": "稱立",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第二欄「方技」「南」間左小字",
+              "text": "輔",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "無功之功者、明者所得、而患者所不能知也、"
+            },
+            {
+              "text": "免山之妾、產後患口眼喎斜、半身不遂、所"
+            },
+            {
+              "text": "謂中風狀也、與桂苓加沉香人中白湯而全愈、大凡"
+            },
+            {
+              "text": "血分有病者、用人中白大効、是以為此治、"
+            },
+            {
+              "text": "今里村人四郎兵衛者、患袖口疳、肉爛膿閉、遂"
+            },
+            {
+              "text": "致小水不通、腹脹滿悶不可名狀、急遽延予、乃極力"
+            },
+            {
+              "text": "聚其外皮、以剃刀橫斷外皮、以水血聚結、血不大出"
+            },
+            {
+              "text": "尿亦不遽逆出、唯僅〻下一二滴、然一日夜滴不已、"
+            },
+            {
+              "text": "遂滿消悶止、於是治疳、至今得無事、"
+            },
+            {
+              "text": "一人誤吞錢、哽于咽間、而將絕、便患者仰臥、直跨其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第二欄「免山」「之」間右小字",
+              "text": "慎獨軒老",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第二欄「免山」「之」間左小字",
+              "text": "人之嫡子",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第五欄「村」「人」間右小字",
+              "text": "在和",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第五欄「村」「人」間左小字",
+              "text": "州中",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第二欄「松部」、第三欄「甘粉」、第六欄「櫻井平作」「良山」依原圖候讀。 左面：左頁第二欄「免山」及第五欄「袖口疳」候讀；第七欄「以水血」可回圖；末欄「直」依見形。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p27",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00027_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "file": "27.jpg",
+      "sha256": "bd1e400c04eb8265fd771df5671a5a3d71e00ce98a78f6c0560ed747eaba3046",
+      "bytes": 263919,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "上、以兩手揉咽部、竭力推送之、遂得治、又一人誤"
+            },
+            {
+              "text": "吞錢、以鉄篦推入之、大率誤吞銅鉄器、在於咽間而"
+            },
+            {
+              "text": "不可奈何者、皆不如以篦推入焉、一人吞碎方金"
+            },
+            {
+              "text": "哽于咽間、乃以篦推入、但此物以有隅、却有"
+            },
+            {
+              "text": "餘地、故自易入、"
+            },
+            {
+              "text": "吞梅實或粉團之類、哽于咽間者、急取酒吹入咽中"
+            },
+            {
+              "text": "則治、又用酢亦佳、酒酢各有効、而未詳其別、宜先用"
+            },
+            {
+              "text": "酒、不効則用酢焉、"
+            },
+            {
+              "text": "小兒嬉戲、有誤入蠶豆之類、於鼻孔不可奈何者、以"
+            },
+            {
+              "text": "手塞其一竅及口、而令發氣息則必出、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第三欄「方金」旁小字",
+              "text": "方俗",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第四欄「哽」上右小字",
+              "text": "所謂壹",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第四欄「哽」上左小字",
+              "text": "歩部",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "小蟲或細石之類、入耳竅不出者、撚硬膏如紙、捻入"
+            },
+            {
+              "text": "耳中、使膏頭粘着其物、而取出最妙、"
+            },
+            {
+              "text": "肩骨脫臼者、一人在背、以兩手加諸肩下而抱之、不"
+            },
+            {
+              "text": "少假焉、一人把患臂高抗之、急降之、則必復、大凡失"
+            },
+            {
+              "text": "臼者、能伸舒而強撓屈之、則必復故、"
+            },
+            {
+              "text": "腰骨脫者、使患者仰臥急屈其脚、使其膝頭着腹則"
+            },
+            {
+              "text": "復、"
+            },
+            {
+              "text": "凡黃胖病、用鉄粉而不効者、宜辰砂、"
+            },
+            {
+              "text": "血證類黃胖者、宜鉄砂起癈丸、"
+            },
+            {
+              "text": "大風宜雷丸、人皆知之、用一品而又佳、宜用梓葉、但"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第二欄「鉄篦」、第三欄「碎方金」、第六欄「梅實」及第九欄「蠶豆」候讀。 左面：左頁第二欄「頭」及第四欄「抗」、第九欄「鉄砂」、末欄「梓」候讀。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "file": "28.jpg",
+      "sha256": "de82e1ab17f2467bfdc8fe86660b2b4251da92b3c1030a69a7b02da89b879e64",
+      "bytes": 269924,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "多服為妙、"
+            },
+            {
+              "text": "反鼻酒亦効于大風、〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕若應必大瞑眩、"
+            },
+            {
+              "text": "鬚髮脫落者、黴家亦有之、但數毛一擧脫去者、多是"
+            },
+            {
+              "text": "大風、"
+            },
+            {
+              "text": "師家用石膏別為三品、曰霜石、曰黃石、曰白石、是也"
+            },
+            {
+              "text": "霜石者加竈突墨少許也、主鎮墜者用之、黃石者加"
+            },
+            {
+              "text": "黃連末少許也、主解熱者用之、白石者無加品也、罕"
+            },
+            {
+              "text": "亦用之、每品用之、必五戔別以木棉作囊盛之、凡用"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "石膏必止於五錢、未嘗減之也、與諸病家必為別囊"
+            },
+            {
+              "text": "以添本藥、故世稱之松原之別囊、"
+            },
+            {
+              "text": "一人患傷寒治後久不食、諸医束手、熟診人之、唯見"
+            },
+            {
+              "text": "腹中有動而不常、因與桂枝加竜骨牡蠣湯、得食卽"
+            },
+            {
+              "text": "進、"
+            },
+            {
+              "text": "痔漏孔不如不愈、愈後為虛勞而斃者、予既見三人、"
+            },
+            {
+              "text": "漏孔不愈者反少害、"
+            },
+            {
+              "text": "一女子前陰小緊而不得嫁、乞治諸医束手、予曰、若"
+            },
+            {
+              "text": "為重憂、則我有一術、然頗烈矣、能堪否、女曰妾齡既"
+            },
+            {
+              "text": "過時、深恥不嫁、有術幸施、雖烈可忍也、〔省錄〕"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 右面：右頁第五欄「黴家」、第八欄「竈突墨」候讀。 左面：左頁第三欄「熟診人之」候讀。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "file": "29.jpg",
+      "sha256": "e0d1500941c0de1aa4f05a79ab35ccababd5d98cf1c8179ab1d1676177ef67ba",
+      "bytes": 284492,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕女能忍之、〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕遂得如尋常、"
+            },
+            {
+              "text": "產後發狂因瘀血者、率宜抵當丸、"
+            },
+            {
+              "text": "婦人四肢腫痛、或骨節煩疼者、往〻因瘀血、則適足"
+            },
+            {
+              "text": "徴焉、"
+            },
+            {
+              "text": "予於紀刕東家見一奇兒、頭大三倍於身、心胸為"
+            },
+            {
+              "text": "之愕然、竊謂如此者、大是難產矣、"
+            },
+            {
+              "text": "南越敦賀人、有患奇疾、自謂鼻頭長不可側、常在密"
+            },
+            {
+              "text": "室中而居焉、苟披戶、則鼻卽長不知所至、故常閉戶"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第七欄「東家」下右小字",
+              "text": "里",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第七欄「東家」下左小字",
+              "text": "名",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "不敢動云、衆医療之無寸効、同鄉有構奇思者来曰、"
+            },
+            {
+              "text": "我有巫祝術、諸速治之、乃製小華表數十、別築壇使"
+            },
+            {
+              "text": "患者坐于其前、命曰置長鼻於壇上以憩焉、患者許"
+            },
+            {
+              "text": "諾、〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕患者自按撫鼻全消矣、自是不復發、"
+            },
+            {
+              "text": "操屋理兵衛者、患吐血、已後為癇症、其狀瞠若宛如"
+            },
+            {
+              "text": "死、與食則飧、不言語、不動作、遺尿屎、予與風引湯而"
+            },
+            {
+              "text": "不見効、故請師、師至曰、方中矣、可益與也、遂宿其家、"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "紀刕",
+          "candidates": [],
+          "note": "右頁第七欄「紀刕」依形，刕疑州異體；第九欄「側」亦可候「測」。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "context": "側",
+          "candidates": [],
+          "note": "右頁第七欄「紀刕」依形，刕疑州異體；第九欄「側」亦可候「測」。"
+        }
+      ],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 右面：右頁第七欄「紀刕」依形，刕疑州異體；第九欄「側」亦可候「測」。 左面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左頁第二欄「華表」、第八欄「操屋理兵衛」、第九欄「飧」候讀。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p30",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00030_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "file": "30.jpg",
+      "sha256": "de5d537103736c5835aafc04747daf2860b2ac9bdddf53d228cffdb66eed329f",
+      "bytes": 287653,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "把杯談笑、居五六日、患者自若、家人親戚相與乞藥、"
+            },
+            {
+              "text": "師唯曰、前方中矣、余何更執、七數日遂得甦矣、"
+            },
+            {
+              "text": "門生信策嘗患癇症、耳鳴上逆、全不食、居數日、動作"
+            },
+            {
+              "text": "如常、唯不食耳、念通不容、呃呃亦不受、萬方不應云、"
+            },
+            {
+              "text": "予往令強食蕎麦、喫了一椀、予去後尽吐出焉、再後"
+            },
+            {
+              "text": "予與別食、然亦必吐、故後不復與、時摺邑"
+            },
+            {
+              "text": "演戲場、與衆往觀之、旁人食團飯因薦信策、信策乃"
+            },
+            {
+              "text": "食之如常、還家無事、中夜友人語曰、汝今日在場中"
+            },
+            {
+              "text": "食團飯無事否、於是尽吐出所食、其不食全六十有"
+            },
+            {
+              "text": "五日矣、決意用瀑布泉、諸証全治、而食亦如常、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第六欄「摺邑」下右小字",
+              "text": "和刕中有",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第六欄「摺邑」下左小字",
+              "text": "邑名",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "信策又患潔癖、且大便甚少、每月僅一行、大率癇家"
+            },
+            {
+              "text": "多奇証、予謂不食過六十日不尿、過半月而起居如"
+            },
+            {
+              "text": "常、則極知拘泥之不佳、"
+            },
+            {
+              "text": "一閑齋翁遇乞治者、雖癈証備矣、未嘗辭焉、時有篤"
+            },
+            {
+              "text": "劇者、門生在傍曰、是必死矣、何以不辭也、翁曰、或可"
+            },
+            {
+              "text": "死矣、然予未知之也、故不得辭、若其死則命也、翁終"
+            },
+            {
+              "text": "身如此、未嘗變其操也、一貫齋則不然、能與時推移、"
+            },
+            {
+              "text": "下市人宗兵衛者、嘗患膝膕攣急、予以為黴毒也、治"
+            },
+            {
+              "text": "而不愈、將浴溫泉、同往京謁師請治、師曰、脚氣也、脚"
+            },
+            {
+              "text": "氣之為毒、不宜溫泉、須急還家以加治焉、其治方則"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁第二欄「七數日」、第四欄「念通」、第六欄「摺邑」候讀；第十欄只見「瀑布泉」名目和結果。 左面：左頁第一欄「潔癖」、第二欄「尿」、第四欄「癈」、第七欄「一貫齋」候讀。按底本記時間，未替原書立病名。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00031_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "file": "31.jpg",
+      "sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "bytes": 276186,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "當以書告福生矣竊按恐可急死宜謹重保攝既而"
+            },
+            {
+              "text": "還家數十日卜死他日師賜書曰汝之在京幾將入"
+            },
+            {
+              "text": "室今也在家幾將下堂無他施治衆多而診察粗也"
+            },
+            {
+              "text": "自今以往施治宜止數十人凡慎診機宜治術則決"
+            },
+            {
+              "text": "不得治十數人之外"
+            },
+            {
+              "text": "刀香蒂為佳此物與霍香其功実相當予謂舶来藿"
+            },
+            {
+              "text": "香者最可疑夫執一事猶貴闕疑而況於医事乎如"
+            },
+            {
+              "text": "藥物則更不可不審也"
+            },
+            {
+              "text": "油風甚者用沉香解毒湯而佳但非長服則不治"
+            },
+            {
+              "text": "故嘗親見受翁之治有奇驗者二三因附于後"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "一男子患齒齦出血每旦起則出頃刻而止雖"
+            },
+            {
+              "text": "午時眠則寐後必出他無可搶拔之證但舌上少褐"
+            },
+            {
+              "text": "色勞思則更甚云治方百計不見寸効凡一歳餘遂"
+            },
+            {
+              "text": "請治曰此癇也不恐下則可治矣乃與三黃加芒硝"
+            },
+            {
+              "text": "湯三十日許而全治"
+            },
+            {
+              "text": "一婦人下利不止三年矣面色痿黃眼胞墮"
+            },
+            {
+              "text": "重舌上穢淡而淡白灰或時色如常不大羸脫臥床"
+            },
+            {
+              "text": "然如欲行遠則中路畏懼而有欲發暈之意故必還"
+            },
+            {
+              "text": "家不敢得果云此実癇也乃與麥門加石湯二十許"
+            },
+            {
+              "text": "日而利止又服二十許日全復常"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第1欄「男子」下雙行小字",
+              "text": "澤野／某",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "澤野",
+                "某"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第6欄「婦人」下雙行小字",
+              "text": "油屋平／助妻",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "油屋平",
+                "助妻"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "搶拔",
+          "candidates": [],
+          "note": "左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "痿",
+          "candidates": [],
+          "note": "左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "墮",
+          "candidates": [],
+          "note": "左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "穢淡",
+          "candidates": [],
+          "note": "左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
+        }
+      ],
+      "observations": "右面：右頁第二欄「卜死」第一字與下筆折角接近，候讀。第六欄「刀香蒂」「霍香」依字形。多處朱點為句讀，未入黑字。 左面：左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p32",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00032_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "file": "32.jpg",
+      "sha256": "06c4cbe12f200ade2df4ca5923284d8af2c6743e628eb4ba6ed9611bf18b146e",
+      "bytes": 280510,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "clinical-discussions-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "一小兒羸弱骨立而色青慘而時下利気促"
+            },
+            {
+              "text": "医數輩相代皆謂脾疳也一日喫飲宜不可過五十"
+            },
+            {
+              "text": "羹兒亦貪飲食諸医以為足益損脾胃而嚴禁之是"
+            },
+            {
+              "text": "以日羸瘦而危篤殊甚因請治曰人非食則不長兒"
+            },
+            {
+              "text": "又何異唯當食矣疾病者藥之所治非飲食所與也"
+            },
+            {
+              "text": "唯其不得治者医擇用有功之藥是以不治予當擇"
+            },
+            {
+              "text": "與無功之藥乃以苓朮橘皮之類數品作劑兼以雞"
+            },
+            {
+              "text": "膽丸而與之居數十日利止色復而體頗肥時故適"
+            },
+            {
+              "text": "訪翁々稱示曰余進之飲食且擇與無功之藥故以"
+            },
+            {
+              "text": "至于此"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第1欄「小兒」下雙行小字",
+              "text": "出塔村／某子",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "出塔村",
+                "某子"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "慎獨翁之機治往々此類也大與世医異其蹤凡"
+            },
+            {
+              "text": "其對病者須臾之間能得其情狀是以下治亦頗"
+            },
+            {
+              "text": "出乎人意之表今唯舉予所知二三可以概見其"
+            },
+            {
+              "text": "大畧矣翁又慇懃語予曰子等少壯唯欲必治疾"
+            },
+            {
+              "text": "病是以往々不免牽強悖理之誤也人生固有自"
+            },
+            {
+              "text": "然之理而疾病亦不外於人身焉為賢者宜要不"
+            },
+            {
+              "text": "悖理矣是故予常用無功之藥其欲必治疾病者"
+            },
+            {
+              "text": "必用有功之藥有功者何也謂汗吐下之類此其"
+            },
+            {
+              "text": "所以數致誤也但是自古而然是以長沙氏之書"
+            },
+            {
+              "text": "務矯其弊為医者知此義則於治術思過半矣"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "右頁第二至第三欄讀作「五十／羹」，其首形及所指待核。朱點與黑字可辨。"
+        }
+      ],
+      "observations": "右面：右頁第二至第三欄讀作「五十／羹」，其首形及所指待核。朱點與黑字可辨。 左面：左頁末欄結束正文。第一欄「蹤」、第四欄「慇懃」、第五欄「牽強」各依筆形暫讀。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00033_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "file": "33.jpg",
+      "sha256": "7af754b88ce6273c4110ffda82c1d3bb40d52488a241d6ffd8846f9e4b3e3871",
+      "bytes": 226131,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "afterword",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "跋"
+            },
+            {
+              "text": "翁者和州芳野人也　名　　字　　云爾號慎獨"
+            },
+            {
+              "text": "幼而志于醫多新方之言不屑焉會見一士人□"
+            },
+            {
+              "text": "古方者一聞其説喟然歎曰醫之為道也實在"
+            },
+            {
+              "text": "此矣乃負笈往京趨于松原翁之門居之遂乃□"
+            },
+            {
+              "text": "長又游歷四方既而居於吉埜下市故人□其名"
+            },
+            {
+              "text": "竊慕之者幾年矣□其之老始得見焉其為人也"
+            },
+            {
+              "text": "高爽特達神情發明類乎□飄然若仙謂卽"
+            },
+            {
+              "text": "□之即平生大異乎老人於是□録□文□其間"
+            },
+            {
+              "text": "隙未嘗不往見之見則未嘗不忘退也因漫記其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第9欄上側黑小字",
+              "text": "如",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "也／慎獨",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "慎獨"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "醫／焉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "醫",
+                "焉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "古方者／其説／歎曰／道也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "古方者",
+                "其説",
+                "歎曰",
+                "道也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "此矣／往京／居之",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "此矣",
+                "往京",
+                "居之"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "長／四方／下市／名",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "長",
+                "四方",
+                "下市",
+                "名"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "年矣／之老／焉／人也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "年矣",
+                "之老",
+                "焉",
+                "人也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "達／類／飄／仙",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "達",
+                "類",
+                "飄",
+                "仙"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "首二字／老人／文",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "首二字",
+                "老人",
+                "文"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "隙／見之／退也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "隙",
+                "見之",
+                "退也"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "類",
+          "candidates": [],
+          "note": "從本面濃墨讀草跋，右上題單字跋，內筆交疊。第二欄名、字後有肉眼可見的闕空，空白照版式記全形，不依別本補人名。第三欄多新、會見等為草形候讀。第五欄末似社、壯，若壯與次欄長可接，仍留□。第七欄首候竊，矣後一字候會／幸。第八欄「類」後二字依疑形留。第九欄首字候擬；中後段難分連筆，小字「如」位置在欄頂、右上偏。"
+        }
+      ],
+      "observations": "右面：右頁只見反透淡墨、水痕與紙斑，無本面正文。 左面：從本面濃墨讀草跋，右上題單字跋，內筆交疊。第二欄名、字後有肉眼可見的闕空，空白照版式記全形，不依別本補人名。第三欄多新、會見等為草形候讀。第五欄末似社、壯，若壯與次欄長可接，仍留□。第七欄首候竊，矣後一字候會／幸。第八欄「類」後二字依疑形留。第九欄首字候擬；中後段難分連筆，小字「如」位置在欄頂、右上偏。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00034_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "file": "34.jpg",
+      "sha256": "831e6035c17681c3306e03e343ff13726c5da38e9fac1b5e5688204c1bb5b26e",
+      "bytes": 296236,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "afterword",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "所聞積以成此冊矣夫翁之為學矣出於松原翁"
+            },
+            {
+              "text": "之門其名行方兼後藤氏之風故其成"
+            },
+            {
+              "text": "説亦墨堆自放其行持□異神情機發有厭新"
+            },
+            {
+              "text": "方之拘泥窮蓄□久矣我以妄臆度而得質之實"
+            },
+            {
+              "text": "始見翁於□翁之於一士人豈有愉快乎是以此篇"
+            },
+            {
+              "text": "亦欲敢示諸同志以□其傳也翁又語余曰百般之技"
+            },
+            {
+              "text": "僅閱其端緒而云能自誇者莫甚於醫焉縱令工"
+            },
+            {
+              "text": "蓋一也決勿誇者六藝豈乎醫焉何者各一為者"
+            },
+            {
+              "text": "視證擇方施治為効焉尋又有患者證候合則"
+            },
+            {
+              "text": "當與同方而治矣我施之而終不治矣怪之而歎余"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第2欄風字下雙小欄，先右後左",
+              "text": "翁書用元／七之類也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "翁書用元",
+                "七之類也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "所聞／冊矣／學矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "所聞",
+                "冊矣",
+                "學矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "門／風",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "門",
+                "風"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第3欄",
+              "text": "説／自放／有",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "説",
+                "自放",
+                "有"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第4欄",
+              "text": "拘泥／久矣／臆度／實",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "拘泥",
+                "久矣",
+                "臆度",
+                "實"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第5欄",
+              "text": "翁／士人／乎",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "翁",
+                "士人",
+                "乎"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第6欄",
+              "text": "傳也／曰／之技",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "傳也",
+                "曰",
+                "之技"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第7欄",
+              "text": "端緒／誇者／醫焉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "端緒",
+                "誇者",
+                "醫焉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第8欄",
+              "text": "一也／誇者／醫焉／末者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "一也",
+                "誇者",
+                "醫焉",
+                "末者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第9欄",
+              "text": "擇方／効焉／患者／合則",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "擇方",
+                "効焉",
+                "患者",
+                "合則"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第10欄",
+              "text": "同方／治矣／不治矣／歎",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "同方",
+                "治矣",
+                "不治矣",
+                "歎"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "幼而志于醫今既及耳順我未免其數也翁□其"
+            },
+            {
+              "text": "酒因謂曰醫之用藥不猶飲酒乎使子服一合而"
+            },
+            {
+              "text": "酒與目眩者哉懼傷其命哉子不信矣使子服"
+            },
+            {
+              "text": "一升則又心胸□甚目迷神飄大似醉矣此果何"
+            },
+            {
+              "text": "所使而然之縱令□良工者〔字數未定〕而望色切脈就聲"
+            },
+            {
+              "text": "察形容其本□酒類豈能辨之哉蓋入於腹中而"
+            },
+            {
+              "text": "不可閱也一酒且如此諸藥之出入腹中豈能盡知"
+            },
+            {
+              "text": "哉故□凡常而不□者為焉投巴豆而不下者有"
+            },
+            {
+              "text": "焉苟拘證候執方藥以治術為易得者未知醫"
+            },
+            {
+              "text": "之所以也鄉於後生將何時得之此翁之常談也翁"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第1欄",
+              "text": "醫／順我／數也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "醫",
+                "順我",
+                "數也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第2欄",
+              "text": "酒／曰／用藥／乎／一合",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "酒",
+                "曰",
+                "用藥",
+                "乎",
+                "一合"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第3欄",
+              "text": "者哉／命哉／信矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "者哉",
+                "命哉",
+                "信矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第4欄",
+              "text": "一升／甚／神飄／醉矣",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "一升",
+                "甚",
+                "神飄",
+                "醉矣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第5欄",
+              "text": "然之／□／切脈",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "然之",
+                "□",
+                "切脈"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第6欄",
+              "text": "形容／酒類／之哉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "形容",
+                "酒類",
+                "之哉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第7欄",
+              "text": "也／如此／腹中",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "如此",
+                "腹中"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第8欄",
+              "text": "哉／為焉",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "哉",
+                "為焉"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第9欄",
+              "text": "焉／證候／方藥／得者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "焉",
+                "證候",
+                "方藥",
+                "得者"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁朱點第10欄",
+              "text": "也／後／得之／常談也",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "也",
+                "後",
+                "得之",
+                "常談也"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "墨堆",
+          "candidates": [],
+          "note": "第一欄積依草勢候讀。第二欄其筆較濃，名行方連寫，方亦可能字仍；後藤氏三字有連筆。末成與次欄説跨欄；小字分層，不將元七拼寫。第三欄「墨堆」「持□」「機發」暫依草勢。第四欄窮蓄後待核。第五欄兩個翁字間名號留□。第六欄傳其傳的第一處未定。第九欄末四字顆粒清楚但證、候字形仍可覆核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "持□",
+          "candidates": [],
+          "note": "第一欄積依草勢候讀。第二欄其筆較濃，名行方連寫，方亦可能字仍；後藤氏三字有連筆。末成與次欄説跨欄；小字分層，不將元七拼寫。第三欄「墨堆」「持□」「機發」暫依草勢。第四欄窮蓄後待核。第五欄兩個翁字間名號留□。第六欄傳其傳的第一處未定。第九欄末四字顆粒清楚但證、候字形仍可覆核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "機發",
+          "candidates": [],
+          "note": "第一欄積依草勢候讀。第二欄其筆較濃，名行方連寫，方亦可能字仍；後藤氏三字有連筆。末成與次欄説跨欄；小字分層，不將元七拼寫。第三欄「墨堆」「持□」「機發」暫依草勢。第四欄窮蓄後待核。第五欄兩個翁字間名號留□。第六欄傳其傳的第一處未定。第九欄末四字顆粒清楚但證、候字形仍可覆核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "左頁朱點第5欄",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "及耳順",
+          "candidates": [],
+          "note": "第一欄中段候「及耳順」，末端「翁□其」有二字草勢連作。第二欄因謂曰的謂亦疑程形。第三、四欄許多行草字為候讀，「大似醉矣」仍須逐形覆核。第5欄長連筆斷不清，未定字數；第6欄末出入等候讀。第9欄執字近持，前後尚待核。末欄前三字候「之所以」，下接 f35 首欄。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "翁□其",
+          "candidates": [],
+          "note": "第一欄中段候「及耳順」，末端「翁□其」有二字草勢連作。第二欄因謂曰的謂亦疑程形。第三、四欄許多行草字為候讀，「大似醉矣」仍須逐形覆核。第5欄長連筆斷不清，未定字數；第6欄末出入等候讀。第9欄執字近持，前後尚待核。末欄前三字候「之所以」，下接 f35 首欄。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "大似醉矣",
+          "candidates": [],
+          "note": "第一欄中段候「及耳順」，末端「翁□其」有二字草勢連作。第二欄因謂曰的謂亦疑程形。第三、四欄許多行草字為候讀，「大似醉矣」仍須逐形覆核。第5欄長連筆斷不清，未定字數；第6欄末出入等候讀。第9欄執字近持，前後尚待核。末欄前三字候「之所以」，下接 f35 首欄。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "之所以",
+          "candidates": [],
+          "note": "第一欄中段候「及耳順」，末端「翁□其」有二字草勢連作。第二欄因謂曰的謂亦疑程形。第三、四欄許多行草字為候讀，「大似醉矣」仍須逐形覆核。第5欄長連筆斷不清，未定字數；第6欄末出入等候讀。第9欄執字近持，前後尚待核。末欄前三字候「之所以」，下接 f35 首欄。"
+        }
+      ],
+      "observations": "右面：第一欄積依草勢候讀。第二欄其筆較濃，名行方連寫，方亦可能字仍；後藤氏三字有連筆。末成與次欄説跨欄；小字分層，不將元七拼寫。第三欄「墨堆」「持□」「機發」暫依草勢。第四欄窮蓄後待核。第五欄兩個翁字間名號留□。第六欄傳其傳的第一處未定。第九欄末四字顆粒清楚但證、候字形仍可覆核。 左面：第一欄中段候「及耳順」，末端「翁□其」有二字草勢連作。第二欄因謂曰的謂亦疑程形。第三、四欄許多行草字為候讀，「大似醉矣」仍須逐形覆核。第5欄長連筆斷不清，未定字數；第6欄末出入等候讀。第9欄執字近持，前後尚待核。末欄前三字候「之所以」，下接 f35 首欄。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00035_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "file": "35.jpg",
+      "sha256": "af8863faa0f28482061cd61d91e200bb1b14ede287d088fe4da1a507fa7486bb",
+      "bytes": 205333,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "afterword",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "言□而未嘗有得□其言意者也世之□僻豈可"
+            },
+            {
+              "text": "而得之覺勉乎因附記以告諸同志"
+            },
+            {
+              "text": "寛政丙辰孟秋中元□於紀州橋本僑居撰"
+            },
+            {
+              "text": "平安　中川故其德"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第1欄",
+              "text": "得□／者也",
+              "column_anchor": 4,
+              "color": "unknown",
+              "lines": [
+                "得□",
+                "者也"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁朱點第2欄",
+              "text": "勉乎／同志",
+              "column_anchor": 4,
+              "color": "unknown",
+              "lines": [
+                "勉乎",
+                "同志"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "右頁朱點第1欄",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "因",
+          "candidates": [],
+          "note": "左頁側灰反透與右頁後文中灰反透均不錄。第一欄首言下字疑矣；得後微小之字近于亦可能無字；世之後二字候玄僻。第二欄得、覺、勉等草書仍須回圖，末由「因」起「因附記以告諸同志」較明。第三欄寛政丙辰可辨（1796 跋記），孟秋的秋近秌寫法，中元後一字可疑日／月，末「於紀州橋本僑居撰」的僑下待讀。末欄平安與中川間的空白依圖記；故候故／攸。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "因附記以告諸同志",
+          "candidates": [],
+          "note": "左頁側灰反透與右頁後文中灰反透均不錄。第一欄首言下字疑矣；得後微小之字近于亦可能無字；世之後二字候玄僻。第二欄得、覺、勉等草書仍須回圖，末由「因」起「因附記以告諸同志」較明。第三欄寛政丙辰可辨（1796 跋記），孟秋的秋近秌寫法，中元後一字可疑日／月，末「於紀州橋本僑居撰」的僑下待讀。末欄平安與中川間的空白依圖記；故候故／攸。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "於紀州橋本僑居撰",
+          "candidates": [],
+          "note": "左頁側灰反透與右頁後文中灰反透均不錄。第一欄首言下字疑矣；得後微小之字近于亦可能無字；世之後二字候玄僻。第二欄得、覺、勉等草書仍須回圖，末由「因」起「因附記以告諸同志」較明。第三欄寛政丙辰可辨（1796 跋記），孟秋的秋近秌寫法，中元後一字可疑日／月，末「於紀州橋本僑居撰」的僑下待讀。末欄平安與中川間的空白依圖記；故候故／攸。"
+        }
+      ],
+      "observations": "右面：左頁側灰反透與右頁後文中灰反透均不錄。第一欄首言下字疑矣；得後微小之字近于亦可能無字；世之後二字候玄僻。第二欄得、覺、勉等草書仍須回圖，末由「因」起「因附記以告諸同志」較明。第三欄寛政丙辰可辨（1796 跋記），孟秋的秋近秌寫法，中元後一字可疑日／月，末「於紀州橋本僑居撰」的僑下待讀。末欄平安與中川間的空白依圖記；故候故／攸。 左面：左頁無本面正向字，紙色、水痕及小孔僅屬物理痕跡。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p36",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00005046%2FRB00005046_00036_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "file": "36.jpg",
+      "sha256": "1fbcdcb4451eb708637bce4ac63c00de5e8f5694d9456b7163d2c5bc53836ec6",
+      "bytes": 188107,
+      "native_width": 6480,
+      "native_height": 4320,
+      "content_role": "housing-and-bindings",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：原冊後封無題。下緣近中微朱痕，表面橫紋不當文字。"
+    }
+  ]
+}
