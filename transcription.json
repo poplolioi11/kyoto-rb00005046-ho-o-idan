@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005046/manifest.json",
     "manifest_sha256": "bb9d26eafd6e546bfbfa4ed255d473149d274c41655a22a8751bb342fb0a906d",
     "record_id": "RB00005046",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "芳翁醫談（1796 年跋，京都大學 ホ/154） / Hō-ō idan [Medical conversations of Fukushima Hōō]: Partial Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -176,7 +176,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -235,7 +235,7 @@
               "type": "seal",
               "location": "左頁外右兩長方朱印",
               "text": "富士川游寄贈／富士川家藏本",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "red",
               "lines": [
                 "富士川游寄贈",
@@ -246,7 +246,7 @@
               "type": "printed-small-text",
               "location": "左頁上黑圓戳",
               "text": "706190／昭15.9.5",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "706190",
@@ -254,22 +254,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "効／劑",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "効",
                 "劑"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "材／之／効",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "材",
                 "之",
@@ -277,11 +277,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "否／丸／之／計",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "否",
                 "丸",
@@ -290,11 +290,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "丸／二味／遂丸",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "丸",
                 "二味",
@@ -302,11 +302,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "二味／甚多／少",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "二味",
                 "甚多",
@@ -314,18 +314,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "也",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 9,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "最／末丸",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "最",
                 "末丸"
@@ -352,7 +352,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -390,44 +390,44 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "下藥／不劇",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "下藥",
                 "不劇"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "也／用",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "也",
                 "用"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "方／用之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "方",
                 "用之"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "末／為丸／當",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "末",
                 "為丸",
@@ -435,11 +435,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "者／與之／中",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "者",
                 "與之",
@@ -447,11 +447,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "間有之／無害／從已",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "間有之",
                 "無害",
@@ -459,22 +459,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "行之／毒",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "行之",
                 "毒"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "長服／製／漆者／末",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "長服",
                 "製",
@@ -483,11 +483,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "土／板上／乾漆",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "土",
                 "板上",
@@ -495,11 +495,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "丸／固結者／末",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "丸",
                 "固結者",
@@ -544,55 +544,55 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "研末／用",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "研末",
                 "用"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "蕎麦／也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "蕎麦",
                 "也"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "用之／粉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "用之",
                 "粉"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "甚多／積聚",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "甚多",
                 "積聚"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "諸症者／用之／勞瘵者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "諸症者",
                 "用之",
@@ -600,11 +600,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "瘀血／乾血勞／塊／拘急",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "瘀血",
                 "乾血勞",
@@ -613,11 +613,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "瘦小者／丸／此",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "瘦小者",
                 "丸",
@@ -625,22 +625,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "難治／貪食",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "難治",
                 "貪食"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "也／茯苓湯／末也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "也",
                 "茯苓湯",
@@ -648,11 +648,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "已／一方",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "已",
                 "一方"
@@ -679,7 +679,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -717,11 +717,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "耳／間／丸",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "耳",
                 "間",
@@ -729,18 +729,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "已",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "難治／心湯／焉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "難治",
                 "心湯",
@@ -748,51 +748,51 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "死",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 4,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "蹇渋者／石膏湯",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "蹇渋者",
                 "石膏湯"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "之語／常法",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "之語",
                 "常法"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "首命湯／附子",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "首命湯",
                 "附子"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "五分／五錢大／中風",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "五分",
                 "五錢大",
@@ -800,22 +800,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "石膏／附子",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "石膏",
                 "附子"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "烏頭／用之",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "烏頭",
                 "用之"
@@ -859,44 +859,44 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "用／烏頭",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "用",
                 "烏頭"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "麻痺者／矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "麻痺者",
                 "矣"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "首也／末也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "首也",
                 "末也"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "中風／病蓋／末黃",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "中風",
                 "病蓋",
@@ -904,22 +904,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "者也／已",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "者也",
                 "已"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "為／全治／癇家之治",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "為",
                 "全治",
@@ -927,18 +927,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "誚",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "嘈雜／酸水／凝結／刺痛／徹心",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "嘈雜",
                 "酸水",
@@ -948,11 +948,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "特甚／脹痛者／粳米湯",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "特甚",
                 "脹痛者",
@@ -960,11 +960,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "湯",
               "column_anchor": 10,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         }
@@ -987,7 +987,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1025,11 +1025,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "前証／不吐／得安",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "前証",
                 "不吐",
@@ -1037,11 +1037,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "腹痛／下利者／反胃／丸",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "腹痛",
                 "下利者",
@@ -1050,22 +1050,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "不止／治者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "不止",
                 "治者"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "之類／常法／必止／者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "之類",
                 "常法",
@@ -1074,22 +1074,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "深也／主之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "深也",
                 "主之"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "長服／尽也／過用之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "長服",
                 "尽也",
@@ -1097,18 +1097,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "不盡",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "難治／也／丸",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "難治",
                 "也",
@@ -1116,18 +1116,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "之類",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 9,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "喘滿／無効／檳榔湯",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "喘滿",
                 "無効",
@@ -1175,7 +1175,7 @@
               "type": "printed-small-text",
               "location": "左頁第9欄衝突下雙小欄，先右後左",
               "text": "卒然衝痛似／衝心而非者",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown",
               "lines": [
                 "卒然衝痛似",
@@ -1183,11 +1183,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "神丸／發呃／瀉心湯",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "神丸",
                 "發呃",
@@ -1195,11 +1195,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "不減／全愈／不能行",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "不減",
                 "全愈",
@@ -1207,11 +1207,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "之類／有病／自伸而",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "之類",
                 "有病",
@@ -1219,11 +1219,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "首也／末也／許",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "首也",
                 "末也",
@@ -1231,29 +1231,29 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "安",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "證／湯",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "證",
                 "湯"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "數瞬／之類／彰",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "數瞬",
                 "之類",
@@ -1261,11 +1261,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "長服／與焉／稍緩",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "長服",
                 "與焉",
@@ -1273,11 +1273,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "旁字者／異證者／辰砂丸",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "旁字者",
                 "異證者",
@@ -1285,11 +1285,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "汗甚者／衝突／瀉心湯",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "汗甚者",
                 "衝突",
@@ -1325,7 +1325,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1363,36 +1363,36 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "之",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "偶用之／丸力強",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "偶用之",
                 "丸力強"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "弱",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 3,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "持重者／溫膽湯／後世",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "持重者",
                 "溫膽湯",
@@ -1400,22 +1400,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "也／奇効",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "也",
                 "奇効"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "定者／常態也／轉方",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "定者",
                 "常態也",
@@ -1423,11 +1423,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "賣人／厥冷／戴眼／人事",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "賣人",
                 "厥冷",
@@ -1436,11 +1436,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "硝湯／虛寒／之類用之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "硝湯",
                 "虛寒",
@@ -1448,11 +1448,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "更甚／至京／原翁",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "更甚",
                 "至京",
@@ -1460,11 +1460,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "至也／三日／甚／退曰",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "至也",
                 "三日",
@@ -1510,11 +1510,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "矣／憩／進浴／曰／饑矣／薦食",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "矣",
                 "憩",
@@ -1525,11 +1525,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "酒／曰／未至也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "酒",
                 "曰",
@@ -1537,33 +1537,33 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "待／幸也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "待",
                 "幸也"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "猶存／之藥",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "猶存",
                 "之藥"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "欄首也／死生／竊謂",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "欄首也",
                 "死生",
@@ -1571,11 +1571,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "矣／治方／所措",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "矣",
                 "治方",
@@ -1583,11 +1583,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "治理／萬一／衆心／憂",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "治理",
                 "萬一",
@@ -1596,11 +1596,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "治矣／問曰／之藥",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "治矣",
                 "問曰",
@@ -1608,11 +1608,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "硝／參附湯／今",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "硝",
                 "參附湯",
@@ -1620,11 +1620,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "是也／非也／此證也",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "是也",
                 "非也",
@@ -1652,7 +1652,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1693,7 +1693,7 @@
               "type": "printed-small-text",
               "location": "右頁第4欄爛瘡下雙小欄，先右後左",
               "text": "口邊赤爛如魚／口乾燥而急迫",
-              "column_anchor": 10,
+              "column_anchor": 4,
               "color": "unknown",
               "lines": [
                 "口邊赤爛如魚",
@@ -1704,7 +1704,7 @@
               "type": "printed-small-text",
               "location": "右頁第5欄欄首雙小欄，先右後左",
               "text": "以緩之故／益爛者",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "以緩之故",
@@ -1712,11 +1712,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "宜矣／與之／全醒／翁曰／人事",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "宜矣",
                 "與之",
@@ -1726,22 +1726,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "易辨／治之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "易辨",
                 "治之"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "藥／同方／愈",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "藥",
                 "同方",
@@ -1749,11 +1749,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "歳／爛瘡／小欄爛",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "歳",
                 "爛瘡",
@@ -1761,11 +1761,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "不言／如石／復發",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "不言",
                 "如石",
@@ -1773,11 +1773,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "逆衝也／集診／參湯",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "逆衝也",
                 "集診",
@@ -1785,11 +1785,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "附／一診曰／人參／之矣／言畢／去",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "附",
                 "一診曰",
@@ -1800,11 +1800,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "云／束手／續命／者／主翁曰",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "云",
                 "束手",
@@ -1814,11 +1814,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "若干／自若／不應也／無用之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "若干",
                 "自若",
@@ -1827,11 +1827,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "治之／見也／於彼",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "治之",
                 "見也",
@@ -1876,11 +1876,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "来請／一貼／微効／十貼／人事",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "来請",
                 "一貼",
@@ -1890,11 +1890,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "逆衝／三黃湯／已",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "逆衝",
                 "三黃湯",
@@ -1902,11 +1902,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "膿血／自止／浮",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "膿血",
                 "自止",
@@ -1914,11 +1914,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "羸憊／痿黃／吞酸時",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "羸憊",
                 "痿黃",
@@ -1926,11 +1926,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "者／瀉心湯／丸／佳／長服也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "者",
                 "瀉心湯",
@@ -1940,11 +1940,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "如是者／効也／久利者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "如是者",
                 "効也",
@@ -1952,18 +1952,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "也",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "為物／雖同／不同",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "為物",
                 "雖同",
@@ -1971,11 +1971,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "確矣／之也／婦人",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "確矣",
                 "之也",
@@ -1983,11 +1983,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "首已／脹大",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "首已",
                 "脹大"
@@ -2022,7 +2022,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2060,11 +2060,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "類／効／憔悴／診之／治焉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "類",
                 "効",
@@ -2074,11 +2074,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "湯／丸／甚／日",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "湯",
                 "丸",
@@ -2087,22 +2087,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "不減／末脹",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "不減",
                 "末脹"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "難治／也／蝟皮",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "難治",
                 "也",
@@ -2110,11 +2110,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "効／類／然／佳",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "効",
                 "類",
@@ -2123,22 +2123,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "大蝕／末類",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "大蝕",
                 "末類"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "下劑／此病／末事",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "下劑",
                 "此病",
@@ -2146,11 +2146,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "外敷／下劑／失患",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "外敷",
                 "下劑",
@@ -2158,11 +2158,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "白色／水者／二味",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "白色",
                 "水者",
@@ -2170,11 +2170,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "敷之／焉",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "敷之",
                 "焉"
@@ -2218,11 +2218,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "為人／卓犖風／不群／家居",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "為人",
                 "卓犖風",
@@ -2231,11 +2231,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "子弟／不驕／祖",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "子弟",
                 "不驕",
@@ -2243,11 +2243,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "乎／日野人／診曰",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "乎",
                 "日野人",
@@ -2255,11 +2255,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "蟲積也／已／問曰",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "蟲積也",
                 "已",
@@ -2267,11 +2267,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "謂乎／曰然／海人湯",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "謂乎",
                 "曰然",
@@ -2279,11 +2279,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "治之／如何曰／可／與之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "治之",
                 "如何曰",
@@ -2292,11 +2292,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "條／全安矣／蛇狀者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "條",
                 "全安矣",
@@ -2304,11 +2304,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "効／以来／所業／方／始末",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "効",
                 "以来",
@@ -2318,11 +2318,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "知之／湯者／功也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "知之",
                 "湯者",
@@ -2330,11 +2330,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "胡菜湯／芫丸湯",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "胡菜湯",
                 "芫丸湯"
@@ -2361,7 +2361,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2402,22 +2402,22 @@
               "type": "printed-small-text",
               "location": "右頁第6欄時旁朱字",
               "text": "恐睹乎",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "也",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "曰／論語／忠信",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "曰",
                 "論語",
@@ -2425,11 +2425,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "恥矣／為善／不善也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "恥矣",
                 "為善",
@@ -2437,11 +2437,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "傷寒論／衆方／道矣／病也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "傷寒論",
                 "衆方",
@@ -2450,11 +2450,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "治病／為醫也／一書",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "治病",
                 "為醫也",
@@ -2462,11 +2462,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "不能之也／有所著／極",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "不能之也",
                 "有所著",
@@ -2474,11 +2474,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "其右者／故也／曰／良醫乎",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "其右者",
                 "故也",
@@ -2487,11 +2487,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "其志／也／如此",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "其志",
                 "也",
@@ -2499,11 +2499,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "良筑／吐法／久之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "良筑",
                 "吐法",
@@ -2511,11 +2511,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "人／甚多／再思久之／又出施之／不少",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "人",
                 "甚多",
@@ -2565,22 +2565,22 @@
               "type": "printed-small-text",
               "location": "左頁第5欄聞来旁小墨",
               "text": "其",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第5欄是字旁朱字",
               "text": "見",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "思久之／出施之／不中者／妙訣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "思久之",
                 "出施之",
@@ -2589,11 +2589,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "天縱之乎／命／末是",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "天縱之乎",
                 "命",
@@ -2601,11 +2601,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "男／陳善／敬輔／貫齋／白翁後",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "男",
                 "陳善",
@@ -2615,11 +2615,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "若州／父／京日／吉埜",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "若州",
                 "父",
@@ -2628,11 +2628,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "預／来／俟／慰勉／是",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "預",
                 "来",
@@ -2642,11 +2642,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "假山／曰／日月逝矣／豪邁憂",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "假山",
                 "曰",
@@ -2655,11 +2655,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "陋俗／郷山／秀矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "陋俗",
                 "郷山",
@@ -2667,11 +2667,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "浩矣／所關／小山池乎",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "浩矣",
                 "所關",
@@ -2679,22 +2679,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "菽／矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "菽",
                 "矣"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "已／治",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "已",
                 "治"
@@ -2743,7 +2743,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2781,22 +2781,22 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "血／不止者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "血",
                 "不止者"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "之類／不至／敝廬／末診",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "之類",
                 "不至",
@@ -2805,11 +2805,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "許諾／患者来／曰／動搖／辭歩",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "許諾",
                 "患者来",
@@ -2819,11 +2819,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "再診則／爾／曰／邑也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "再診則",
                 "爾",
@@ -2832,11 +2832,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "病也／此也／信宿",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "病也",
                 "此也",
@@ -2844,11 +2844,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "歸期即／湯／歸去",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "歸期即",
                 "湯",
@@ -2856,11 +2856,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "来謝／診曰／一發矣／末藥",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "来謝",
                 "診曰",
@@ -2869,29 +2869,29 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "喪命焉／所",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "喪命焉",
                 "所"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "焉",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 9,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "弊廬／脚／長大",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "弊廬",
                 "脚",
@@ -2936,11 +2936,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "過常／齊脚／驚之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "過常",
                 "齊脚",
@@ -2948,18 +2948,18 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "如此",
-              "column_anchor": 10,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "先候患／數歳／坐",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "先候患",
                 "數歳",
@@ -2967,11 +2967,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "漏泄／不得治／延師／診之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "漏泄",
                 "不得治",
@@ -2980,11 +2980,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "問曰／可治乎／曰可治／一指",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "問曰",
                 "可治乎",
@@ -2993,11 +2993,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "如初／師曰可治／又屈一指／不已",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "如初",
                 "師曰可治",
@@ -3006,11 +3006,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "去／即癇／瀉心湯／全治矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "去",
                 "即癇",
@@ -3019,33 +3019,33 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "三歳／師云",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "三歳",
                 "師云"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "嘔喘／嫉師",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "嘔喘",
                 "嫉師"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "其癇也／全已",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "其癇也",
                 "全已"
@@ -3080,7 +3080,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3118,11 +3118,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "癇／久不止／服",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "癇",
                 "久不止",
@@ -3130,11 +3130,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "治／招予／至曰／適病／他邪",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "治",
                 "招予",
@@ -3144,11 +3144,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "佳／方畧／作劑／六分",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "佳",
                 "方畧",
@@ -3157,11 +3157,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "二分／一戔／一劑",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "二分",
                 "一戔",
@@ -3169,11 +3169,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "半合／一沸／三劑／全止",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "半合",
                 "一沸",
@@ -3182,22 +3182,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "首者／佳者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "首者",
                 "佳者"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "首之者／不為者／之類",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "首之者",
                 "不為者",
@@ -3205,11 +3205,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "刺之／深處／去之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "刺之",
                 "深處",
@@ -3217,11 +3217,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "內／難測／刺之／之後",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "內",
                 "難測",
@@ -3230,11 +3230,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "首愈／次愈／不刺",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "首愈",
                 "次愈",
@@ -3279,11 +3279,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "其功也／之劑／漸浮／潰出",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "其功也",
                 "之劑",
@@ -3292,11 +3292,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "蔓行／條理／見之故",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "蔓行",
                 "條理",
@@ -3304,11 +3304,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "之／屈伸／此誤",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "之",
                 "屈伸",
@@ -3316,11 +3316,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "然／腫者／也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "然",
                 "腫者",
@@ -3328,11 +3328,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "鼠毒／其治／猫／猫毒／也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "鼠毒",
                 "其治",
@@ -3342,11 +3342,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "所咬／毒也／黃鸝",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "所咬",
                 "毒也",
@@ -3354,11 +3354,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "黃鸝／家猫／予／肘上",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "黃鸝",
                 "家猫",
@@ -3367,22 +3367,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "痛痒／腫痛",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "痛痒",
                 "腫痛"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "絲／惡心／苦悶／名狀",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "絲",
                 "惡心",
@@ -3391,11 +3391,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "之類／勝計／効也／方書",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "之類",
                 "勝計",
@@ -3424,7 +3424,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3517,7 +3517,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3611,7 +3611,7 @@
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
       "source_link_scope": "catalogue-only",
-      "state": "initial-read",
+      "state": "scope-limited-transcription",
       "sides": [
         {
           "side": "right",
@@ -3742,7 +3742,7 @@
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
       "source_link_scope": "catalogue-only",
-      "state": "initial-read",
+      "state": "scope-limited-transcription",
       "sides": [
         {
           "side": "right",
@@ -3783,14 +3783,14 @@
               "type": "printed-small-text",
               "location": "右頁第九欄「喜又」下右小字",
               "text": "喜又翁",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第九欄「喜又」下左小字",
               "text": "之字",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown"
             }
           ]
@@ -3895,7 +3895,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3972,14 +3972,14 @@
               "type": "printed-small-text",
               "location": "左頁第八欄「治」下右小字",
               "text": "按失榮七種未",
-              "column_anchor": 10,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄「治」下左小字",
               "text": "詳出於何書",
-              "column_anchor": 10,
+              "column_anchor": 8,
               "color": "unknown"
             }
           ]
@@ -4003,7 +4003,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4080,14 +4080,14 @@
               "type": "printed-small-text",
               "location": "左頁第五欄「為末」下右小字",
               "text": "取過火",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄「為末」下左小字",
               "text": "焦黑者",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown"
             }
           ]
@@ -4111,7 +4111,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4205,7 +4205,7 @@
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
       "source_link_scope": "catalogue-only",
-      "state": "initial-read",
+      "state": "scope-limited-transcription",
       "sides": [
         {
           "side": "right",
@@ -4321,7 +4321,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4362,14 +4362,14 @@
               "type": "printed-small-text",
               "location": "右頁第九欄「紙」「者」間右小字",
               "text": "方俗",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第九欄「紙」「者」間左小字",
               "text": "所稱",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown"
             }
           ]
@@ -4429,7 +4429,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4470,21 +4470,21 @@
               "type": "printed-small-text",
               "location": "右頁第二欄「金」「加」間右小字",
               "text": "後世方所",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄「金」「加」間左小字",
               "text": "謂正氣散",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄「森服」旁小字",
               "text": "之女",
-              "column_anchor": 10,
+              "column_anchor": 6,
               "color": "unknown"
             }
           ]
@@ -4544,7 +4544,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4585,7 +4585,7 @@
               "type": "copy-annotation",
               "location": "右頁第二欄「滌」「不」間小字",
               "text": "疏滌",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -4645,7 +4645,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4738,7 +4738,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4779,14 +4779,14 @@
               "type": "printed-small-text",
               "location": "右頁第二欄「方技」「南」間右小字",
               "text": "稱立",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄「方技」「南」間左小字",
               "text": "輔",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -4830,28 +4830,28 @@
               "type": "printed-small-text",
               "location": "左頁第二欄「免山」「之」間右小字",
               "text": "慎獨軒老",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄「免山」「之」間左小字",
               "text": "人之嫡子",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄「村」「人」間右小字",
               "text": "在和",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄「村」「人」間左小字",
               "text": "州中",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown"
             }
           ]
@@ -4875,7 +4875,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4916,21 +4916,21 @@
               "type": "printed-small-text",
               "location": "右頁第三欄「方金」旁小字",
               "text": "方俗",
-              "column_anchor": 10,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄「哽」上右小字",
               "text": "所謂壹",
-              "column_anchor": 10,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄「哽」上左小字",
               "text": "歩部",
-              "column_anchor": 10,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
@@ -4991,7 +4991,7 @@
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
       "source_link_scope": "catalogue-only",
-      "state": "initial-read",
+      "state": "scope-limited-transcription",
       "sides": [
         {
           "side": "right",
@@ -5115,7 +5115,7 @@
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
       "source_link_scope": "catalogue-only",
-      "state": "initial-read",
+      "state": "scope-limited-transcription",
       "sides": [
         {
           "side": "right",
@@ -5156,14 +5156,14 @@
               "type": "printed-small-text",
               "location": "右頁第七欄「東家」下右小字",
               "text": "里",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄「東家」下左小字",
               "text": "名",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -5289,7 +5289,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5330,14 +5330,14 @@
               "type": "printed-small-text",
               "location": "右頁第六欄「摺邑」下右小字",
               "text": "和刕中有",
-              "column_anchor": 10,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄「摺邑」下左小字",
               "text": "邑名",
-              "column_anchor": 10,
+              "column_anchor": 6,
               "color": "unknown"
             }
           ]
@@ -5397,7 +5397,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -5406,7 +5406,7 @@
               "text": "當以書告福生矣竊按恐可急死宜謹重保攝既而"
             },
             {
-              "text": "還家數十日卜死他日師賜書曰汝之在京幾將入"
+              "text": "還家數十日乍死他日師賜書曰汝之在京幾將入"
             },
             {
               "text": "室今也在家幾將下堂無他施治衆多而診察粗也"
@@ -5418,7 +5418,7 @@
               "text": "不得治十數人之外"
             },
             {
-              "text": "刀香蒂為佳此物與霍香其功実相當予謂舶来藿"
+              "text": "刀香薷為佳此物與霍香其功実相當予謂舶来藿"
             },
             {
               "text": "香者最可疑夫執一事猶貴闕疑而況於医事乎如"
@@ -5454,10 +5454,10 @@
               "text": "湯三十日許而全治"
             },
             {
-              "text": "一婦人下利不止三年矣面色痿黃眼胞墮"
+              "text": "一婦人下利不止三年矣面色痿黃眼胞愼"
             },
             {
-              "text": "重舌上穢淡而淡白灰或時色如常不大羸脫臥床"
+              "text": "重舌上糙渋而淡白灰或時色如常不大羸脫臥床"
             },
             {
               "text": "然如欲行遠則中路畏懼而有欲發暈之意故必還"
@@ -5474,7 +5474,7 @@
               "type": "printed-small-text",
               "location": "左頁第1欄「男子」下雙行小字",
               "text": "澤野／某",
-              "column_anchor": 10,
+              "column_anchor": 1,
               "color": "unknown",
               "lines": [
                 "澤野",
@@ -5485,7 +5485,7 @@
               "type": "printed-small-text",
               "location": "左頁第6欄「婦人」下雙行小字",
               "text": "油屋平／助妻",
-              "column_anchor": 10,
+              "column_anchor": 6,
               "color": "unknown",
               "lines": [
                 "油屋平",
@@ -5523,6 +5523,16 @@
           "context": "穢淡",
           "candidates": [],
           "note": "左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "霍香",
+          "candidates": [
+            "霍香",
+            "藿香"
+          ],
+          "note": "原圖未辨清草頭。"
         }
       ],
       "observations": "右面：右頁第二欄「卜死」第一字與下筆折角接近，候讀。第六欄「刀香蒂」「霍香」依字形。多處朱點為句讀，未入黑字。 左面：左頁第二欄「搶拔」第一字待核。第六欄「痿」「墮」仍待核。第七欄「穢淡」依圖形保留。原朱點隨欄。"
@@ -5542,7 +5552,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "clinical-discussions-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -5554,7 +5564,7 @@
               "text": "医數輩相代皆謂脾疳也一日喫飲宜不可過五十"
             },
             {
-              "text": "羹兒亦貪飲食諸医以為足益損脾胃而嚴禁之是"
+              "text": "戔兒亦貪飲食諸医以為足益損脾胃而嚴禁之是"
             },
             {
               "text": "以日羸瘦而危篤殊甚因請治曰人非食則不長兒"
@@ -5583,7 +5593,7 @@
               "type": "printed-small-text",
               "location": "右頁第1欄「小兒」下雙行小字",
               "text": "出塔村／某子",
-              "column_anchor": 10,
+              "column_anchor": 1,
               "color": "unknown",
               "lines": [
                 "出塔村",
@@ -5596,7 +5606,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "慎獨翁之機治往々此類也大與世医異其蹤凡"
+              "text": "慎獨翁之機活往々此類也大與世医異其蹤凡"
             },
             {
               "text": "其對病者須臾之間能得其情狀是以下治亦頗"
@@ -5655,7 +5665,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "afterword",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5701,37 +5711,37 @@
               "type": "printed-small-text",
               "location": "左頁第9欄上側黑小字",
               "text": "如",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "也／慎獨",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "也",
                 "慎獨"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "醫／焉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "醫",
                 "焉"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "古方者／其説／歎曰／道也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "古方者",
                 "其説",
@@ -5740,11 +5750,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "此矣／往京／居之",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "此矣",
                 "往京",
@@ -5752,11 +5762,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "長／四方／下市／名",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "長",
                 "四方",
@@ -5765,11 +5775,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "年矣／之老／焉／人也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "年矣",
                 "之老",
@@ -5778,11 +5788,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "達／類／飄／仙",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "達",
                 "類",
@@ -5791,11 +5801,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "首二字／老人／文",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "首二字",
                 "老人",
@@ -5803,11 +5813,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "隙／見之／退也",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "隙",
                 "見之",
@@ -5885,7 +5895,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "afterword",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5926,7 +5936,7 @@
               "type": "printed-small-text",
               "location": "右頁第2欄風字下雙小欄，先右後左",
               "text": "翁書用元／七之類也",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown",
               "lines": [
                 "翁書用元",
@@ -5934,11 +5944,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "所聞／冊矣／學矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "所聞",
                 "冊矣",
@@ -5946,22 +5956,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "門／風",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "門",
                 "風"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第3欄",
               "text": "説／自放／有",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "説",
                 "自放",
@@ -5969,11 +5979,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第4欄",
               "text": "拘泥／久矣／臆度／實",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "拘泥",
                 "久矣",
@@ -5982,11 +5992,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第5欄",
               "text": "翁／士人／乎",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "翁",
                 "士人",
@@ -5994,11 +6004,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第6欄",
               "text": "傳也／曰／之技",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "傳也",
                 "曰",
@@ -6006,11 +6016,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第7欄",
               "text": "端緒／誇者／醫焉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "端緒",
                 "誇者",
@@ -6018,11 +6028,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第8欄",
               "text": "一也／誇者／醫焉／末者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "一也",
                 "誇者",
@@ -6031,11 +6041,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第9欄",
               "text": "擇方／効焉／患者／合則",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "擇方",
                 "効焉",
@@ -6044,11 +6054,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第10欄",
               "text": "同方／治矣／不治矣／歎",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "同方",
                 "治矣",
@@ -6094,11 +6104,11 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第1欄",
               "text": "醫／順我／數也",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "醫",
                 "順我",
@@ -6106,11 +6116,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第2欄",
               "text": "酒／曰／用藥／乎／一合",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "酒",
                 "曰",
@@ -6120,11 +6130,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第3欄",
               "text": "者哉／命哉／信矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 3,
+              "color": "red",
               "lines": [
                 "者哉",
                 "命哉",
@@ -6132,11 +6142,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第4欄",
               "text": "一升／甚／神飄／醉矣",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 4,
+              "color": "red",
               "lines": [
                 "一升",
                 "甚",
@@ -6145,11 +6155,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第5欄",
               "text": "然之／□／切脈",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 5,
+              "color": "red",
               "lines": [
                 "然之",
                 "□",
@@ -6157,11 +6167,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第6欄",
               "text": "形容／酒類／之哉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 6,
+              "color": "red",
               "lines": [
                 "形容",
                 "酒類",
@@ -6169,11 +6179,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第7欄",
               "text": "也／如此／腹中",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 7,
+              "color": "red",
               "lines": [
                 "也",
                 "如此",
@@ -6181,22 +6191,22 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第8欄",
               "text": "哉／為焉",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 8,
+              "color": "red",
               "lines": [
                 "哉",
                 "為焉"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第9欄",
               "text": "焉／證候／方藥／得者",
-              "column_anchor": 10,
-              "color": "unknown",
+              "column_anchor": 9,
+              "color": "red",
               "lines": [
                 "焉",
                 "證候",
@@ -6205,11 +6215,11 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "左頁朱點第10欄",
               "text": "也／後／得之／常談也",
               "column_anchor": 10,
-              "color": "unknown",
+              "color": "red",
               "lines": [
                 "也",
                 "後",
@@ -6358,7 +6368,7 @@
       "native_width": 6480,
       "native_height": 4320,
       "content_role": "afterword",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -6378,22 +6388,22 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第1欄",
               "text": "得□／者也",
-              "column_anchor": 4,
-              "color": "unknown",
+              "column_anchor": 1,
+              "color": "red",
               "lines": [
                 "得□",
                 "者也"
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "vermillion-reading-marks",
               "location": "右頁朱點第2欄",
               "text": "勉乎／同志",
-              "column_anchor": 4,
-              "color": "unknown",
+              "column_anchor": 2,
+              "color": "red",
               "lines": [
                 "勉乎",
                 "同志"

@@ -1,0 +1,934 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 40,
+  "changes": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "8 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "f7f47d8f5eedef75d02adaa45460279538d626812b9f8f27cda4c9e7f7b7af7d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p4"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "702da0200227a043a86bc01b9b9cfd731518509812d98769c0ba949779757a2e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "702da0200227a043a86bc01b9b9cfd731518509812d98769c0ba949779757a2e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p5"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "5978d1cc40ec6cd7f582b4097bba4a886d716071971204c0ffd6052d2165fcf4",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "5978d1cc40ec6cd7f582b4097bba4a886d716071971204c0ffd6052d2165fcf4",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p6"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "3c5316f35446914c6ce80a23785ff1532032f12c818fd4d692973d15a29f4b0d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p7"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "10 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "3c5316f35446914c6ce80a23785ff1532032f12c818fd4d692973d15a29f4b0d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p7"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "0528638909ed7c92a858d9bae49889b83bfa58224c8dbfb202a8e37d7fcc5ecb",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p8"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "0528638909ed7c92a858d9bae49889b83bfa58224c8dbfb202a8e37d7fcc5ecb",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p8"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "11 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "c0517e7428383449b1c7b2c2dd40556d3a2f035306f014d9c3e6d70a302bdb41",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "c0517e7428383449b1c7b2c2dd40556d3a2f035306f014d9c3e6d70a302bdb41",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p9"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "215733f5f33eb512d675cb9b31cb7a6ffa38697f41c79c8df7a77928c2139c1f",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "215733f5f33eb512d675cb9b31cb7a6ffa38697f41c79c8df7a77928c2139c1f",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p10"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "10 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "1bb10378963aed6474a169d92d2e5cd780b355c9f01cc87ce882336425057eb8",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "11 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "1bb10378963aed6474a169d92d2e5cd780b355c9f01cc87ce882336425057eb8",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "b3cad036b5a87d2b89035e68cb1c84d543a8d818ce98419d36051f485416e287",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p12"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "b3cad036b5a87d2b89035e68cb1c84d543a8d818ce98419d36051f485416e287",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p12"
+    },
+    {
+      "image": 13,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "9bb8ce13fb78b6aa31d60412e77c639363852d20cfa3b43af58eba98e3f2936e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p13"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "9bb8ce13fb78b6aa31d60412e77c639363852d20cfa3b43af58eba98e3f2936e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p13"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "3443db0f65669b48bc43cf9198f09ed3a0ef15acf811ec3bf27b7533f2b5a98f",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p18"
+    },
+    {
+      "image": 19,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "2c2955c38ad52b42ccddd455155e1d62e5bedccfda13bb4ad1ff72bc46c50465",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p19"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "76c7d56e95c22d44765da55e9c299d6c1330bd763e383dc8965ba5269e74bc6d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p22"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "3 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "f22aeaf0856d7a377d1ef2c52a454453c7dbe6e15d671cef8c8f7903a39f51c3",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p23"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "1 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "3c3aae17e097d1c61888d2115c1beb82148f0577c47756916b96272c74c899a7",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p24"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "a4783d9ea2654af9a44c2d51fa340938dc252cb4ae5f9d9fb5d907f627728eab",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p26"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "4 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "a4783d9ea2654af9a44c2d51fa340938dc252cb4ae5f9d9fb5d907f627728eab",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p26"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "3 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "bd1e400c04eb8265fd771df5671a5a3d71e00ce98a78f6c0560ed747eaba3046",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p27"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "de5d537103736c5835aafc04747daf2860b2ac9bdddf53d228cffdb66eed329f",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p30"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "卜死",
+      "after": "乍死",
+      "reason": "首字見第二短橫與上撇，合於本冊另見乍形。",
+      "source_bbox": [
+        5099,
+        1847,
+        5310,
+        2207
+      ],
+      "offset": [
+        5,
+        7
+      ],
+      "source_image_sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "刀香蒂",
+      "after": "刀香薷",
+      "reason": "第三字艸下具雨頭與而部，依本冊改讀薷。",
+      "source_bbox": [
+        4281,
+        1243,
+        4447,
+        1705
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "source_image_sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "眼胞墮",
+      "after": "眼胞愼",
+      "reason": "眼胞後一字左有心旁，右側真形，照原圖採愼。",
+      "source_bbox": [
+        1778,
+        3305,
+        1952,
+        3843
+      ],
+      "offset": [
+        14,
+        17
+      ],
+      "source_image_sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "穢淡",
+      "after": "糙渋",
+      "reason": "首字左米右造，次字右旁止形並有附筆。",
+      "source_bbox": [
+        1571,
+        1693,
+        1778,
+        2106
+      ],
+      "offset": [
+        3,
+        5
+      ],
+      "source_image_sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "羹兒",
+      "after": "戔兒",
+      "reason": "欄首可辨雙戈，與前欄數量相連。",
+      "source_bbox": [
+        4900,
+        1235,
+        5083,
+        1592
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "06c4cbe12f200ade2df4ca5923284d8af2c6743e628eb4ba6ed9611bf18b146e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p32"
+    },
+    {
+      "image": 32,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "機治",
+      "after": "機活",
+      "reason": "活字右部為舌，依原寫，不依句意換成治。",
+      "source_bbox": [
+        2815,
+        1806,
+        3058,
+        2142
+      ],
+      "offset": [
+        4,
+        6
+      ],
+      "source_image_sha256": "06c4cbe12f200ade2df4ca5923284d8af2c6743e628eb4ba6ed9611bf18b146e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p32"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "1 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "06c4cbe12f200ade2df4ca5923284d8af2c6743e628eb4ba6ed9611bf18b146e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p32"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "7af754b88ce6273c4110ffda82c1d3bb40d52488a241d6ffd8846f9e4b3e3871",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "10 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "831e6035c17681c3306e03e343ff13726c5da38e9fac1b5e5688204c1bb5b26e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "9 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "831e6035c17681c3306e03e343ff13726c5da38e9fac1b5e5688204c1bb5b26e",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "依錄入順序附在末欄",
+      "after": "2 筆依原註欄位掛接",
+      "reason": "以原圖記載的頁側、欄次和註記類型分層。",
+      "source_image_sha256": "af8863faa0f28482061cd61d91e200bb1b14ede287d088fe4da1a507fa7486bb",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 7,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p7",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p9",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p11",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p12",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p32",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p33",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p34",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "status": "不確定字或版面記號留待回圖"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "status": "不確定字或版面記號留待回圖"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 31,
+      "side": "right",
+      "column": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p31",
+      "source_image_sha256": "2233011a7515f6e78673efd13bf609876d75cf4997484fef38337f4d1308bdc5",
+      "source_bbox": [
+        4313,
+        2329,
+        4475,
+        2705
+      ],
+      "reading": "霍香",
+      "status": "依原圖留讀",
+      "reason": "筆畫有雨、隹，上方未辨清艸頭；暫存霍，另留候讀。"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "source_image_sha256": "af8863faa0f28482061cd61d91e200bb1b14ede287d088fe4da1a507fa7486bb",
+      "source_bbox": [
+        4848,
+        1304,
+        5042,
+        2126
+      ],
+      "reading": "寛政丙辰",
+      "status": "依原圖留讀",
+      "reason": "卷末草體起首四字可辨，後續確切月日仍待細核。"
+    },
+    {
+      "image": 35,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00005046/canvas/p35",
+      "source_image_sha256": "af8863faa0f28482061cd61d91e200bb1b14ede287d088fe4da1a507fa7486bb",
+      "source_bbox": [
+        4568,
+        2624,
+        4832,
+        3370
+      ],
+      "reading": "中川故其德",
+      "status": "依原圖留讀",
+      "reason": "原跋署名與卷首一致；故字的攵旁仍有連筆。"
+    }
+  ]
+}

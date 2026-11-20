@@ -4,11 +4,11 @@
 
 Hō-ō idan records medical conversations attributed to Fukushima Hōō and written down by Nakagawa (中川壺山). This Literary Chinese manuscript preserves patients’ histories, encounters with practitioners and observations of speech, appetite, movement and changes over time. It also records historical categories for some disturbances. The Kyoto University Fujikawa Collection witness (ホ/154) contains an afterword dated 1796.
 
-## V0.1.0
+## V0.2.0
 
-36 幅全部編目，保留病例、照護敘事、雙行小字及跋。六段原文省錄，逐欄標示缺口。本版為 AI 輔助初錄。草書、朱記和未定讀法留待核。
+36 幅全部編目，保留病例、照護敘事、雙行小字及跋。六段原文省錄，逐欄標示缺口。比對未見初稿的本機 OCR 候選後，回圖裁定採用 40 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 36 scans are indexed, with case narratives, accounts of care, annotations and the afterword. Six passages are omitted. The affected columns are marked. AI-assisted initial transcription with unresolved cursive and vermilion readings marked.
+All 36 scans are indexed, with case narratives, accounts of care, annotations and the afterword. Six passages are omitted. The affected columns are marked. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 40 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
